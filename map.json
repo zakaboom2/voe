@@ -1,0 +1,4043 @@
+[
+    {
+        "field_id": 3100,
+        "field_name": "B1  Jerami",
+        "keys": 6,
+        "rRoom": 10,
+        "rType": 1,
+        "x": 67.9000015258789,
+        "y": 16.0,
+        "z": 19.899999618530273
+    },
+    {
+        "field_id": 3200,
+        "field_name": "B1  PandaiBesi",
+        "keys": 14,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 79.5,
+        "y": 1.100000023841858,
+        "z": 41.400001525878906
+    },
+    {
+        "field_id": 3300,
+        "field_name": "B1  TanahPembangunan [1]",
+        "keys": 231,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 61.60000228881836,
+        "y": 6.000000476837158,
+        "z": 94.4000015258789
+    },
+    {
+        "field_id": 3300,
+        "field_name": "B1 Boss Colon",
+        "keys": 183,
+        "rRoom": 0,
+        "rType": 2,
+        "x": 114.4000015258789,
+        "y": 3.0,
+        "z": 84.20000457763672
+    },
+    {
+        "field_id": 3300,
+        "field_name": "B1  TanahPembangunan [2]",
+        "keys": 424,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 61.60000228881836,
+        "y": 6.0,
+        "z": 94.4000015258789
+    },
+    {
+        "field_id": 3200,
+        "field_name": "B1  PakarPadu",
+        "keys": 143,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 85.0,
+        "y": 0.5999999642372131,
+        "z": 10.300000190734863
+    },
+    {
+        "field_id": 3300,
+        "field_name": "B1  Tanah Pembangunan[3]",
+        "keys": 161,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 61.60000228881836,
+        "y": 6.0,
+        "z": 94.4000015258789
+    },
+    {
+        "field_id": 3500,
+        "field_name": "B1  Runtuhan Golem[1]",
+        "keys": 1000,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 66.0,
+        "y": 2.3999998569488525,
+        "z": 82.5999984741211
+    },
+    {
+        "field_id": 3100,
+        "field_name": "B1  Ke Sofya",
+        "keys": 23,
+        "rRoom": 20,
+        "rType": 1,
+        "x": 139.90000915527344,
+        "y": 12.0,
+        "z": 82.20000457763672
+    },
+    {
+        "field_id": 4600,
+        "field_name": "B1  Ke BalaiKota",
+        "keys": 169,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 66.5,
+        "y": 3.809999942779541,
+        "z": 53.0
+    },
+    {
+        "field_id": 3600,
+        "field_name": "B1  Pululu [Manual]",
+        "keys": 802,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 60.142333984375,
+        "y": 11.108960151672363,
+        "z": 79.22310638427734
+    },
+    {
+        "field_id": 3600,
+        "field_name": "B1  Pululu [Manual]",
+        "keys": 802,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 60.142333984375,
+        "y": 11.108960151672363,
+        "z": 79.22310638427734
+    },
+    {
+        "field_id": 3600,
+        "field_name": "B1  Nenek Ryano[Manual]",
+        "keys": 245,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 69.61405181884766,
+        "y": 10.460640907287598,
+        "z": 63.930423736572266
+    },
+    {
+        "field_id": 3700,
+        "field_name": "B1  Tnh Genting [1]",
+        "keys": 259,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 9.100000381469727,
+        "y": 65.82068634033203,
+        "z": 101.20000457763672
+    },
+    {
+        "field_id": 3800,
+        "field_name": "Lawan Kristal Jahat",
+        "keys": 797,
+        "rRoom": 0,
+        "rType": 2,
+        "x": 17.80000114440918,
+        "y": 11.744060516357422,
+        "z": 64.80000305175781
+    },
+    {
+        "field_id": 4600,
+        "field_name": "B1 Balik Ke Pino",
+        "keys": 312,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 66.5,
+        "y": 3.809999942779541,
+        "z": 53.0
+    },
+    {
+        "field_id": 4600,
+        "field_name": "B1 Balik Ke Pino [2]",
+        "keys": 114,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 66.5,
+        "y": 3.809999942779541,
+        "z": 53.0
+    },
+    {
+        "field_id": 3100,
+        "field_name": "B1 Ke Sololo",
+        "keys": 208,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 21.263431549072266,
+        "y": 14.6300048828125,
+        "z": 19.060657501220703
+    },
+    {
+        "field_id": 4002,
+        "field_name": "B1  Kuil Runtuh [1]",
+        "keys": 98,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 53.79999923706055,
+        "y": 14.768699645996094,
+        "z": 63.20000076293945
+    },
+    {
+        "field_id": 4002,
+        "field_name": "B1  Kuil Runtuh [2]",
+        "keys": 319,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 92.63957214355469,
+        "y": 2.290661334991455,
+        "z": 25.477842330932617
+    },
+    {
+        "field_id": 4100,
+        "field_name": "B1 Lawan Mino",
+        "keys": 442,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 80.0,
+        "y": 14.272899627685547,
+        "z": 95.0
+    },
+    {
+        "field_id": 4600,
+        "field_name": "B1  Ke Pino",
+        "keys": 17,
+        "rRoom": 3,
+        "rType": 1,
+        "x": 66.5,
+        "y": 3.809999942779541,
+        "z": 53.0
+    },
+    {
+        "field_id": 4600,
+        "field_name": "B1  Ke Pino[2]",
+        "keys": 112,
+        "rRoom": 4,
+        "rType": 1,
+        "x": 66.5,
+        "y": 3.809999942779541,
+        "z": 53.0
+    },
+    {
+        "field_id": 4200,
+        "field_name": "B1  Danau Icule [1]",
+        "keys": 718,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 123.70000457763672,
+        "y": 13.79558277130127,
+        "z": 37.0
+    },
+    {
+        "field_id": 3600,
+        "field_name": "B1  Beli Dupa",
+        "keys": 736,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 60.13999938964844,
+        "y": 11.108644485473633,
+        "z": 79.22000122070313
+    },
+    {
+        "field_id": 3200,
+        "field_name": "B1  Pakar Pada",
+        "keys": 152,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 85.0,
+        "y": 0.6000000238418579,
+        "z": 10.300000190734863
+    },
+    {
+        "field_id": 4200,
+        "field_name": "B1  Gunung Nisel [1]",
+        "keys": 845,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 123.70000457763672,
+        "y": 13.79558277130127,
+        "z": 37.0
+    },
+    {
+        "field_id": 4302,
+        "field_name": "B1  Lawan Babi",
+        "keys": 776,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 27.5,
+        "y": 53.12592697143555,
+        "z": 33.29999923706055
+    },
+    {
+        "field_id": 4400,
+        "field_name": "B1  Lawan Naga",
+        "keys": 95,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 38.20000076293945,
+        "y": 65.68463897705078,
+        "z": 94.70000457763672
+    },
+    {
+        "field_id": 4600,
+        "field_name": "B1  Lapor Pino",
+        "keys": 345,
+        "rRoom": 5,
+        "rType": 1,
+        "x": 66.5,
+        "y": 3.809999942779541,
+        "z": 53.0
+    },
+    {
+        "field_id": 3100,
+        "field_name": "B2  Kota Sofya",
+        "keys": 651,
+        "rRoom": 30,
+        "rType": 1,
+        "x": 81.0,
+        "y": 14.0,
+        "z": 130.0
+    },
+    {
+        "field_id": 3100,
+        "field_name": "B2 NPC Sololo",
+        "keys": 61,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 21.263431549072266,
+        "y": 14.6300048828125,
+        "z": 19.060657501220703
+    },
+    {
+        "field_id": 3100,
+        "field_name": "B2 NPC Prajurit",
+        "keys": 44,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 82.14157104492188,
+        "y": 14.0,
+        "z": 34.810752868652344
+    },
+    {
+        "field_id": 3200,
+        "field_name": "B2 NPC Pandai Besi",
+        "keys": 594,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 95.10430908203125,
+        "y": 1.100000023841858,
+        "z": 50.37247848510742
+    },
+    {
+        "field_id": 3201,
+        "field_name": "B2 NPC Pakar Padu",
+        "keys": 754,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 85.95073699951172,
+        "y": 0.5999999642372131,
+        "z": 15.184999465942383
+    },
+    {
+        "field_id": 3100,
+        "field_name": "B2  Kota Sofya",
+        "keys": 521,
+        "rRoom": 31,
+        "rType": 1,
+        "x": 81.0,
+        "y": 14.0,
+        "z": 130.0
+    },
+    {
+        "field_id": 4600,
+        "field_name": "B2  Balai Kota",
+        "keys": 900,
+        "rRoom": 6,
+        "rType": 1,
+        "x": 66.5,
+        "y": 3.809999942779541,
+        "z": 53.0
+    },
+    {
+        "field_id": 3600,
+        "field_name": "Sen Pululu 1",
+        "keys": 451,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 60.13999938964844,
+        "y": 11.108644485473633,
+        "z": 79.22000122070313
+    },
+    {
+        "field_id": 6000,
+        "field_name": "B2  Ke Lahar Bakar Witeka",
+        "keys": 4,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 56.70000076293945,
+        "y": 10.46634292602539,
+        "z": 28.200000762939453
+    },
+    {
+        "field_id": 6102,
+        "field_name": "B2  VS Sheyra",
+        "keys": 655,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 66.0,
+        "y": 19.33182716369629,
+        "z": 128.3000030517578
+    },
+    {
+        "field_id": 6300,
+        "field_name": "B2  Dusun Douce",
+        "keys": 252,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 99.80000305175781,
+        "y": 23.762298583984375,
+        "z": 116.5
+    },
+    {
+        "field_id": 6401,
+        "field_name": "B2  Kota Scaro",
+        "keys": 745,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 113.20231628417969,
+        "y": 4.5381083488464355,
+        "z": 177.69619750976563
+    },
+    {
+        "field_id": 6401,
+        "field_name": "B2  Kota Scaro [2]",
+        "keys": 869,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 163.6999969482422,
+        "y": 5.499497413635254,
+        "z": 100.30000305175781
+    },
+    {
+        "field_id": 6200,
+        "field_name": "B2  Lereng Merapi Vs Boss",
+        "keys": 102,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 61.10000228881836,
+        "y": 2.0999999046325684,
+        "z": 112.0
+    },
+    {
+        "field_id": 6000,
+        "field_name": "B2  Ke NPC Tolala",
+        "keys": 970,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 56.70000076293945,
+        "y": 10.46634292602539,
+        "z": 28.200000762939453
+    },
+    {
+        "field_id": 6600,
+        "field_name": "B2  Tanah Kaos",
+        "keys": 427,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 193.5,
+        "y": 10.645017623901367,
+        "z": 78.70000457763672
+    },
+    {
+        "field_id": 6700,
+        "field_name": "B2  Tnh Tinggi Yorl 1",
+        "keys": 50,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 132.5,
+        "y": 14.450138092041016,
+        "z": 88.9000015258789
+    },
+    {
+        "field_id": 6800,
+        "field_name": "B2  Gua Lotaros",
+        "keys": 941,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 170.40000915527344,
+        "y": 7.085848808288574,
+        "z": 44.70000076293945
+    },
+    {
+        "field_id": 6900,
+        "field_name": "B2  Gua Lotaros VS Oze",
+        "keys": 279,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 61.10000228881836,
+        "y": 4.400000095367432,
+        "z": 112.0
+    },
+    {
+        "field_id": 6700,
+        "field_name": "B2  Ke Tnh Tinggi Yorl 3",
+        "keys": 792,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 132.5,
+        "y": 14.450138092041016,
+        "z": 88.9000015258789
+    },
+    {
+        "field_id": 7000,
+        "field_name": "B2  NPC Tecaca",
+        "keys": 50,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 40.60000228881836,
+        "y": 5.9423017501831055,
+        "z": 74.4000015258789
+    },
+    {
+        "field_id": 7100,
+        "field_name": "B2  Kastil Bulan 1",
+        "keys": 32,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 29.200000762939453,
+        "y": 2.1804423332214355,
+        "z": 74.30000305175781
+    },
+    {
+        "field_id": 7100,
+        "field_name": "B2  Kastil Bulan 2",
+        "keys": 331,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 29.200000762939453,
+        "y": 2.1804423332214355,
+        "z": 74.30000305175781
+    },
+    {
+        "field_id": 7102,
+        "field_name": "B2  Kastil Bulan 3",
+        "keys": 342,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 56.0,
+        "y": 6.699999809265137,
+        "z": 17.700000762939453
+    },
+    {
+        "field_id": 7102,
+        "field_name": "B2  Selesai Tombol",
+        "keys": 554,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 56.0,
+        "y": 6.699999809265137,
+        "z": 17.700000762939453
+    },
+    {
+        "field_id": 7103,
+        "field_name": "B2  Kastil Bulan Dalam",
+        "keys": 298,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 28.700000762939453,
+        "y": 27.049999237060547,
+        "z": 115.30000305175781
+    },
+    {
+        "field_id": 7103,
+        "field_name": "B2 VS Boss",
+        "keys": 298,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 28.700000762939453,
+        "y": 27.049999237060547,
+        "z": 115.30000305175781
+    },
+    {
+        "field_id": 7000,
+        "field_name": "B2  Back To NPC",
+        "keys": 267,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 43.831485748291016,
+        "y": 5.26105260848999,
+        "z": 74.09945678710938
+    },
+    {
+        "field_id": 7000,
+        "field_name": "B2  Back To NPC 2",
+        "keys": 384,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 40.60000228881836,
+        "y": 5.9423017501831055,
+        "z": 74.4000015258789
+    },
+    {
+        "field_id": 6000,
+        "field_name": "B2  Back To NPC Tolala",
+        "keys": 885,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 56.70000076293945,
+        "y": 10.46634292602539,
+        "z": 28.200000762939453
+    },
+    {
+        "field_id": 6401,
+        "field_name": "B2  Kota Scaro 2",
+        "keys": 307,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 163.6999969482422,
+        "y": 5.499497413635254,
+        "z": 100.30000305175781
+    },
+    {
+        "field_id": 6500,
+        "field_name": "gshs",
+        "keys": 359,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 80.0,
+        "y": 5.058135032653809,
+        "z": 60.60000228881836
+    },
+    {
+        "field_id": 6401,
+        "field_name": "B2  Kota Scaro 2.1[BOSS]",
+        "keys": 3922,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 110.24217224121094,
+        "y": 4.346039772033691,
+        "z": 181.09144592285156
+    },
+    {
+        "field_id": 7500,
+        "field_name": "B2  Gerbang Iblis",
+        "keys": 363,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 75.4000015258789,
+        "y": 8.5,
+        "z": 101.30000305175781
+    },
+    {
+        "field_id": 7500,
+        "field_name": "B2  VS BOSS",
+        "keys": 363,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 75.4000015258789,
+        "y": 8.5,
+        "z": 101.30000305175781
+    },
+    {
+        "field_id": 7600,
+        "field_name": "B2  Gua Bwh Sahan A1",
+        "keys": 158,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 99.5999984741211,
+        "y": 36.28240966796875,
+        "z": 53.0
+    },
+    {
+        "field_id": 7601,
+        "field_name": "B2  Gua Bwh Sahan B2",
+        "keys": 158,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 99.5999984741211,
+        "y": 36.28240966796875,
+        "z": 53.0
+    },
+    {
+        "field_id": 7602,
+        "field_name": "B2  Gua Bwh Sahan B3",
+        "keys": 162,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 61.400001525878906,
+        "y": 15.762701034545898,
+        "z": 85.0
+    },
+    {
+        "field_id": 7700,
+        "field_name": "B2  Gua Bwh Sahan Ujung",
+        "keys": 524,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 114.0,
+        "y": 13.219273567199707,
+        "z": 72.5999984741211
+    },
+    {
+        "field_id": 7700,
+        "field_name": "B2  Natalia",
+        "keys": 389,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 114.0,
+        "y": 13.219273567199707,
+        "z": 72.5999984741211
+    },
+    {
+        "field_id": 7700,
+        "field_name": "B2  Natalia 2",
+        "keys": 123,
+        "rRoom": 3,
+        "rType": 1,
+        "x": 114.0,
+        "y": 13.219273567199707,
+        "z": 72.5999984741211
+    },
+    {
+        "field_id": 4600,
+        "field_name": "B2  Ke Pino",
+        "keys": 357,
+        "rRoom": 7,
+        "rType": 1,
+        "x": 66.5,
+        "y": 3.809999942779541,
+        "z": 53.0
+    },
+    {
+        "field_id": 4600,
+        "field_name": "B2  Ke Pino 2",
+        "keys": 411,
+        "rRoom": 8,
+        "rType": 1,
+        "x": 66.5,
+        "y": 3.809999942779541,
+        "z": 53.0
+    },
+    {
+        "field_id": 8000,
+        "field_name": "B3  Padang Darkanon 1",
+        "keys": 912,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 16.0,
+        "y": 2.952028274536133,
+        "z": 95.5
+    },
+    {
+        "field_id": 8100,
+        "field_name": "B3  Tnh Tinggi Centerio",
+        "keys": 578,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 84.30000305175781,
+        "y": 5.245021820068359,
+        "z": 104.4000015258789
+    },
+    {
+        "field_id": 8100,
+        "field_name": "B3  Tnh Tinggi Centerio Pululu",
+        "keys": 231,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 84.30000305175781,
+        "y": 5.245021820068359,
+        "z": 104.4000015258789
+    },
+    {
+        "field_id": 8000,
+        "field_name": "B3  NPC Cipiwon",
+        "keys": 754,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 16.0,
+        "y": 2.952028274536133,
+        "z": 95.5
+    },
+    {
+        "field_id": 8200,
+        "field_name": "B3  Bukit Harde",
+        "keys": 371,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 19.80000114440918,
+        "y": 13.914908409118652,
+        "z": 91.4000015258789
+    },
+    {
+        "field_id": 8200,
+        "field_name": "B3  NPC Delma",
+        "keys": 942,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 133.11619567871094,
+        "y": 16.986757278442383,
+        "z": 104.69216918945313
+    },
+    {
+        "field_id": 8200,
+        "field_name": "B3  NPC Delma 2",
+        "keys": 611,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 19.80000114440918,
+        "y": 13.914908409118652,
+        "z": 91.4000015258789
+    },
+    {
+        "field_id": 8100,
+        "field_name": "B3  Makam Ratu 1",
+        "keys": 717,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 15.199999809265137,
+        "y": 5.491329669952393,
+        "z": 46.900001525878906
+    },
+    {
+        "field_id": 8301,
+        "field_name": "B3  Makam Ratu 2",
+        "keys": 933,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 37.20000076293945,
+        "y": 5.0,
+        "z": 169.8000030517578
+    },
+    {
+        "field_id": 8302,
+        "field_name": "B3  Makam Ratu 3",
+        "keys": 212,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 120.0,
+        "y": 27.0,
+        "z": 16.0
+    },
+    {
+        "field_id": 8400,
+        "field_name": "B3  VS Ratu Kuno",
+        "keys": 608,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 80.0,
+        "y": 5.68688440322876,
+        "z": 32.0
+    },
+    {
+        "field_id": 8200,
+        "field_name": "B3  Back NPC Delma",
+        "keys": 268,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 19.80000114440918,
+        "y": 13.914908409118652,
+        "z": 91.4000015258789
+    },
+    {
+        "field_id": 8200,
+        "field_name": "B3  Prajurit Elf",
+        "keys": 352,
+        "rRoom": 5,
+        "rType": 1,
+        "x": 161.60000610351563,
+        "y": 12.244170188903809,
+        "z": 36.60000228881836
+    },
+    {
+        "field_id": 8500,
+        "field_name": "B3  Kediaman Figo 1",
+        "keys": 847,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 21.5,
+        "y": 1.3600000143051147,
+        "z": 122.70000457763672
+    },
+    {
+        "field_id": 8601,
+        "field_name": "B3  Tanah Pertanian 1",
+        "keys": 475,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 100.0,
+        "y": 9.233713150024414,
+        "z": 110.0
+    },
+    {
+        "field_id": 8700,
+        "field_name": "B3  Tanah Pertanian Boss",
+        "keys": 748,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 88.30000305175781,
+        "y": 49.30561828613281,
+        "z": 165.0
+    },
+    {
+        "field_id": 8500,
+        "field_name": "B3  NPC Figo",
+        "keys": 660,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 53.400001525878906,
+        "y": 1.364802360534668,
+        "z": 82.30000305175781
+    },
+    {
+        "field_id": 8500,
+        "field_name": "B3  NPC Figo 2",
+        "keys": 822,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 74.70000457763672,
+        "y": 1.3600000143051147,
+        "z": 72.5
+    },
+    {
+        "field_id": 8800,
+        "field_name": "B3  Benteng Ethos 1",
+        "keys": 899,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 57.0,
+        "y": 20.456829071044922,
+        "z": 230.60000610351563
+    },
+    {
+        "field_id": 7700,
+        "field_name": "B3  Back Natalia 1",
+        "keys": 339,
+        "rRoom": 5,
+        "rType": 1,
+        "x": 75.30000305175781,
+        "y": 17.0,
+        "z": 138.40000915527344
+    },
+    {
+        "field_id": 7700,
+        "field_name": "B3  Back Natalia 2",
+        "keys": 290,
+        "rRoom": 6,
+        "rType": 1,
+        "x": 75.30000305175781,
+        "y": 17.0,
+        "z": 138.40000915527344
+    },
+    {
+        "field_id": 8800,
+        "field_name": "B3  NPC Balsette",
+        "keys": 149,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 70.20000457763672,
+        "y": 22.88119888305664,
+        "z": 196.3000030517578
+    },
+    {
+        "field_id": 8900,
+        "field_name": "B3  Kota Hilang 1",
+        "keys": 946,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 95.0,
+        "y": 55.57499694824219,
+        "z": 111.0999984741211
+    },
+    {
+        "field_id": 8901,
+        "field_name": "B3  Kota Hilang 2",
+        "keys": 760,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 139.3000030517578,
+        "y": 23.146432876586914,
+        "z": 41.29999923706055
+    },
+    {
+        "field_id": 8902,
+        "field_name": "B3  Kota Hilang 2 Vs Boss",
+        "keys": 329,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 35.29999923706055,
+        "y": 20.09670066833496,
+        "z": 191.6999969482422
+    },
+    {
+        "field_id": 7700,
+        "field_name": "B3  NPC Naiata",
+        "keys": 35,
+        "rRoom": 7,
+        "rType": 1,
+        "x": 75.30000305175781,
+        "y": 17.0,
+        "z": 138.40000915527344
+    },
+    {
+        "field_id": 7103,
+        "field_name": "B3  NPC Kastil Bulan",
+        "keys": 409,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 28.700000762939453,
+        "y": 27.049999237060547,
+        "z": 115.30000305175781
+    },
+    {
+        "field_id": 4600,
+        "field_name": "B3  NPC Pino 1",
+        "keys": 20,
+        "rRoom": 9,
+        "rType": 1,
+        "x": 66.5,
+        "y": 3.809999942779541,
+        "z": 53.0
+    },
+    {
+        "field_id": 8800,
+        "field_name": "B3  NPC Balsette",
+        "keys": 653,
+        "rRoom": 3,
+        "rType": 1,
+        "x": 70.20000457763672,
+        "y": 22.88119888305664,
+        "z": 196.3000030517578
+    },
+    {
+        "field_id": 9100,
+        "field_name": "B3  Perbatasan Fabizo",
+        "keys": 745,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 70.20000457763672,
+        "y": 22.899999618530273,
+        "z": 196.3000030517578
+    },
+    {
+        "field_id": 9200,
+        "field_name": "B3  Tnh Ternoda 1",
+        "keys": 913,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 179.1999969482422,
+        "y": 66.2831039428711,
+        "z": 45.60000228881836
+    },
+    {
+        "field_id": 9300,
+        "field_name": "B3  Desa Albati",
+        "keys": 579,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 70.20000457763672,
+        "y": 22.899999618530273,
+        "z": 196.3000030517578
+    },
+    {
+        "field_id": 9400,
+        "field_name": "B3  Taman Dunia Lain 1",
+        "keys": 851,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 36.70000076293945,
+        "y": 43.940128326416016,
+        "z": 72.0
+    },
+    {
+        "field_id": 9401,
+        "field_name": "B3  Taman Dunia Lain 2",
+        "keys": 252,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 292.1000061035156,
+        "y": 113.05928039550781,
+        "z": 28.0
+    },
+    {
+        "field_id": 9500,
+        "field_name": "B3  Taman Dunia Lain 3",
+        "keys": 509,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 288.0,
+        "y": 0.0,
+        "z": 112.0
+    },
+    {
+        "field_id": 9600,
+        "field_name": "B3  Taman Dunia Lain Ujung Boss",
+        "keys": 572,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 88.30000305175781,
+        "y": 14.989899635314941,
+        "z": 165.0
+    },
+    {
+        "field_id": 7700,
+        "field_name": "B4  Back NPC Natalia",
+        "keys": 816,
+        "rRoom": 8,
+        "rType": 1,
+        "x": 75.30000305175781,
+        "y": 17.0,
+        "z": 138.40000915527344
+    },
+    {
+        "field_id": 10000,
+        "field_name": "B4  Maia Diela 1",
+        "keys": 314,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 82.70000457763672,
+        "y": 8.224770545959473,
+        "z": 128.5
+    },
+    {
+        "field_id": 10100,
+        "field_name": "B4  Teras Krikil 1",
+        "keys": 425,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 116.5,
+        "y": 35.7309684753418,
+        "z": 83.0
+    },
+    {
+        "field_id": 10100,
+        "field_name": "B4  Teras Krikil 2",
+        "keys": 470,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 116.5,
+        "y": 35.7309684753418,
+        "z": 83.0
+    },
+    {
+        "field_id": 10100,
+        "field_name": "B4  Teras Krikil 3",
+        "keys": 56,
+        "rRoom": 5,
+        "rType": 1,
+        "x": 116.5,
+        "y": 35.7309684753418,
+        "z": 83.0
+    },
+    {
+        "field_id": 11900,
+        "field_name": "B4  Kota Akaku 1",
+        "keys": 353,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 22.5,
+        "y": 6.5,
+        "z": 22.5
+    },
+    {
+        "field_id": 11900,
+        "field_name": "B4  Kota Akaku 2",
+        "keys": 469,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 22.5,
+        "y": 6.5,
+        "z": 22.5
+    },
+    {
+        "field_id": 10300,
+        "field_name": "B4  Gurun Akaku Boss",
+        "keys": 152,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 56.900001525878906,
+        "y": 32.0,
+        "z": 161.8000030517578
+    },
+    {
+        "field_id": 11600,
+        "field_name": "B4 Scen El Scaro 1",
+        "keys": 24,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 42.0,
+        "y": 37.70000076293945,
+        "z": 106.30000305175781
+    },
+    {
+        "field_id": 11600,
+        "field_name": "B4 Scen El Scaro 1",
+        "keys": 24,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 42.0,
+        "y": 37.70000076293945,
+        "z": 106.30000305175781
+    },
+    {
+        "field_id": 11600,
+        "field_name": "B4 Scen El Scaro 2",
+        "keys": 515,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 42.0,
+        "y": 37.70000076293945,
+        "z": 106.30000305175781
+    },
+    {
+        "field_id": 10500,
+        "field_name": "B4 Scen Bukit Teaus 1",
+        "keys": 49,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 118.5,
+        "y": 19.81509780883789,
+        "z": 184.3000030517578
+    },
+    {
+        "field_id": 11500,
+        "field_name": "B4 Scen Bukit Teaus 2",
+        "keys": 784,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 139.6999969482422,
+        "y": 12.649999618530273,
+        "z": 173.1999969482422
+    },
+    {
+        "field_id": 11500,
+        "field_name": "B4 Scen Bukit Teaus 3",
+        "keys": 268,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 139.6999969482422,
+        "y": 12.649999618530273,
+        "z": 173.1999969482422
+    },
+    {
+        "field_id": 10500,
+        "field_name": "B4 Scen Bukit Teaus 4",
+        "keys": 942,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 118.5,
+        "y": 19.81509780883789,
+        "z": 184.3000030517578
+    },
+    {
+        "field_id": 10600,
+        "field_name": "B4 Scen Situs Limbah Sihir 1",
+        "keys": 270,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 56.900001525878906,
+        "y": 2.0,
+        "z": 16.0
+    },
+    {
+        "field_id": 10601,
+        "field_name": "B4 Scen Situs Limbah Sihir 2",
+        "keys": 227,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 128.90000915527344,
+        "y": 10.906817436218262,
+        "z": 41.5
+    },
+    {
+        "field_id": 10700,
+        "field_name": "B4 Scen Situs Limbah Sihir 3 Boss",
+        "keys": 598,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 115.9000015258789,
+        "y": 7.559999942779541,
+        "z": 74.0
+    },
+    {
+        "field_id": 11800,
+        "field_name": "B4  El Scaro Raja",
+        "keys": 69,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 42.60000228881836,
+        "y": 14.799999237060547,
+        "z": 43.0
+    },
+    {
+        "field_id": 11800,
+        "field_name": "B4  El Scaro Raja 2",
+        "keys": 996,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 42.60000228881836,
+        "y": 14.799999237060547,
+        "z": 43.0
+    },
+    {
+        "field_id": 10800,
+        "field_name": "B4  Jurang Dunkel 1",
+        "keys": 753,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 127.0,
+        "y": 13.294502258300781,
+        "z": 166.0
+    },
+    {
+        "field_id": 10900,
+        "field_name": "B4  Neraka Abadi 1",
+        "keys": 281,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 12.90000057220459,
+        "y": 30.276126861572266,
+        "z": 78.0
+    },
+    {
+        "field_id": 11100,
+        "field_name": "B4  Neraka Abadi Boss",
+        "keys": 57,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 12.90000057220459,
+        "y": 30.30000114440918,
+        "z": 78.0
+    },
+    {
+        "field_id": 11800,
+        "field_name": "B4  Raja 1",
+        "keys": 71,
+        "rRoom": 3,
+        "rType": 1,
+        "x": 42.60000228881836,
+        "y": 14.799999237060547,
+        "z": 43.0
+    },
+    {
+        "field_id": 11800,
+        "field_name": "B4  Raja 2",
+        "keys": 90,
+        "rRoom": 4,
+        "rType": 1,
+        "x": 42.60000228881836,
+        "y": 14.799999237060547,
+        "z": 43.0
+    },
+    {
+        "field_id": 10400,
+        "field_name": "B4  Padang Kelana 1",
+        "keys": 222,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 115.70000457763672,
+        "y": 3.700000047683716,
+        "z": 87.5999984741211
+    },
+    {
+        "field_id": 11800,
+        "field_name": "B4  Balik Ke Istana",
+        "keys": 23,
+        "rRoom": 5,
+        "rType": 1,
+        "x": 42.60000228881836,
+        "y": 14.799999237060547,
+        "z": 43.0
+    },
+    {
+        "field_id": 11200,
+        "field_name": "B4  Calle Mort 1",
+        "keys": 913,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 15.0,
+        "y": 4.292636394500732,
+        "z": 34.20000076293945
+    },
+    {
+        "field_id": 11200,
+        "field_name": "B4  Calle Mort 2",
+        "keys": 624,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 15.0,
+        "y": 4.292636394500732,
+        "z": 34.20000076293945
+    },
+    {
+        "field_id": 11200,
+        "field_name": "B4  Calle Mort 3",
+        "keys": 62,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 15.0,
+        "y": 4.292636394500732,
+        "z": 34.20000076293945
+    },
+    {
+        "field_id": 11400,
+        "field_name": "B4  Gunung Lunagent Boss",
+        "keys": 14,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 12.90000057220459,
+        "y": 30.30000114440918,
+        "z": 78.0
+    },
+    {
+        "field_id": 13400,
+        "field_name": "B4  Mata Air Kelahiran 1",
+        "keys": 441,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 21.200000762939453,
+        "y": 25.30000114440918,
+        "z": 93.0999984741211
+    },
+    {
+        "field_id": 13500,
+        "field_name": "B4  Mata Air Kelahiran Boss",
+        "keys": 428,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 59.0,
+        "y": 12.40000057220459,
+        "z": 29.700000762939453
+    },
+    {
+        "field_id": 13700,
+        "field_name": "B5  Cermin Kegelapan 1",
+        "keys": 767,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 70.5999984741211,
+        "y": 45.93459701538086,
+        "z": 97.5999984741211
+    },
+    {
+        "field_id": 13800,
+        "field_name": "B5  Taman Sublim 1",
+        "keys": 675,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 90.0,
+        "y": 24.45469856262207,
+        "z": 112.70000457763672
+    },
+    {
+        "field_id": 13900,
+        "field_name": "B5  Taman Sublim Boss",
+        "keys": 42,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 79.20000457763672,
+        "y": 2.299999952316284,
+        "z": 28.30000114440918
+    },
+    {
+        "field_id": 14000,
+        "field_name": "B5  Sungai Gelap 1",
+        "keys": 187,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 178.0,
+        "y": 14.53432846069336,
+        "z": 111.0
+    },
+    {
+        "field_id": 14100,
+        "field_name": "B5  Buaian Prajurit 1",
+        "keys": 567,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 22.200000762939453,
+        "y": 12.280404090881348,
+        "z": 59.29999923706055
+    },
+    {
+        "field_id": 14102,
+        "field_name": "B5  Buaian Prajurit 2",
+        "keys": 408,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 21.0,
+        "y": 4.299999713897705,
+        "z": 19.200000762939453
+    },
+    {
+        "field_id": 14000,
+        "field_name": "B5  Sungai Kegelapan 11",
+        "keys": 579,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 178.0,
+        "y": 14.53432846069336,
+        "z": 111.0
+    },
+    {
+        "field_id": 14200,
+        "field_name": "B5  Rumah Kegelapan",
+        "keys": 41,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 130.60000610351563,
+        "y": 5.0,
+        "z": 73.80000305175781
+    },
+    {
+        "field_id": 14201,
+        "field_name": "B5  Rumah Kegelapan 2",
+        "keys": 365,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 137.1999969482422,
+        "y": 5.0,
+        "z": 13.40000057220459
+    },
+    {
+        "field_id": 14400,
+        "field_name": "B5  Plasrida Boss",
+        "keys": 798,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 59.0,
+        "y": 5.645831108093262,
+        "z": 29.700000762939453
+    },
+    {
+        "field_id": 13200,
+        "field_name": "B5  Istana Gelap Boss",
+        "keys": 222,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 59.0,
+        "y": 12.399999618530273,
+        "z": 29.700000762939453
+    },
+    {
+        "field_id": 11800,
+        "field_name": "B6  Raja 1",
+        "keys": 278,
+        "rRoom": 6,
+        "rType": 1,
+        "x": 42.60000228881836,
+        "y": 14.799999237060547,
+        "z": 43.0
+    },
+    {
+        "field_id": 10400,
+        "field_name": "B6  Padang Kelana 01",
+        "keys": 921,
+        "rRoom": 3,
+        "rType": 1,
+        "x": 210.1999969482422,
+        "y": 26.7547607421875,
+        "z": 83.30000305175781
+    },
+    {
+        "field_id": 15000,
+        "field_name": "B6  Ke Einklang 1",
+        "keys": 98,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 122.5999984741211,
+        "y": 19.603899002075195,
+        "z": 29.700000762939453
+    },
+    {
+        "field_id": 15000,
+        "field_name": "B6  NPC 1",
+        "keys": 664,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 136.95599365234375,
+        "y": 13.728899955749512,
+        "z": 123.02928924560547
+    },
+    {
+        "field_id": 15000,
+        "field_name": "B6  NPC 2",
+        "keys": 550,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 114.35124969482422,
+        "y": 13.728899955749512,
+        "z": 106.89215087890625
+    },
+    {
+        "field_id": 15000,
+        "field_name": "B6  NPC 3",
+        "keys": 703,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 62.99693298339844,
+        "y": 14.603899955749512,
+        "z": 110.15845489501953
+    },
+    {
+        "field_id": 15000,
+        "field_name": "B6  NPC 4",
+        "keys": 107,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 122.5999984741211,
+        "y": 19.603899002075195,
+        "z": 29.700000762939453
+    },
+    {
+        "field_id": 15000,
+        "field_name": "B6  NPC Tnark 1",
+        "keys": 64,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 122.5999984741211,
+        "y": 19.603899002075195,
+        "z": 29.700000762939453
+    },
+    {
+        "field_id": 15100,
+        "field_name": "B6  Garis Pertahanan 1",
+        "keys": 933,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 102.0999984741211,
+        "y": 24.39780044555664,
+        "z": 44.70000076293945
+    },
+    {
+        "field_id": 15201,
+        "field_name": "B6  Graben 1",
+        "keys": 238,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 33.60000228881836,
+        "y": 53.0,
+        "z": 37.20000076293945
+    },
+    {
+        "field_id": 15300,
+        "field_name": "B6  Graben Boss",
+        "keys": 59,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 49.900001525878906,
+        "y": 14.566390991210938,
+        "z": 48.900001525878906
+    },
+    {
+        "field_id": 15000,
+        "field_name": "B6  Balik NPC Tnark",
+        "keys": 689,
+        "rRoom": 3,
+        "rType": 1,
+        "x": 122.5999984741211,
+        "y": 19.603899002075195,
+        "z": 29.700000762939453
+    },
+    {
+        "field_id": 15400,
+        "field_name": "B6  Klaspe Kumuh 1",
+        "keys": 259,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 30.80000114440918,
+        "y": 7.788919448852539,
+        "z": 105.80000305175781
+    },
+    {
+        "field_id": 15500,
+        "field_name": "B6  Singolare 1",
+        "keys": 14,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 105.9000015258789,
+        "y": 14.255452156066895,
+        "z": 115.5999984741211
+    },
+    {
+        "field_id": 15502,
+        "field_name": "B6  Singolare Boss",
+        "keys": 46,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 95.20000457763672,
+        "y": 9.321186065673828,
+        "z": 82.80000305175781
+    },
+    {
+        "field_id": 11800,
+        "field_name": "B6  Back Ke Raja El Scaro",
+        "keys": 113,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 42.60000228881836,
+        "y": 14.799999237060547,
+        "z": 43.0
+    },
+    {
+        "field_id": 11800,
+        "field_name": "B6  Istana El Scaro 1",
+        "keys": 758,
+        "rRoom": 7,
+        "rType": 1,
+        "x": 42.60000228881836,
+        "y": 14.799999237060547,
+        "z": 43.0
+    },
+    {
+        "field_id": 11600,
+        "field_name": "B6  NPC Kurgon",
+        "keys": 999,
+        "rRoom": 4,
+        "rType": 1,
+        "x": 42.0,
+        "y": 37.70000076293945,
+        "z": 106.30000305175781
+    },
+    {
+        "field_id": 3600,
+        "field_name": "B6  NPC Nenek Ryona",
+        "keys": 695,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 58.5,
+        "y": 11.641401290893555,
+        "z": 89.20000457763672
+    },
+    {
+        "field_id": 3202,
+        "field_name": "B6  Perpustakaan ",
+        "keys": 101,
+        "rRoom": 3,
+        "rType": 1,
+        "x": 40.900001525878906,
+        "y": 6.299999713897705,
+        "z": 16.100000381469727
+    },
+    {
+        "field_id": 4600,
+        "field_name": "B6  NPC Pino",
+        "keys": 916,
+        "rRoom": 10,
+        "rType": 1,
+        "x": 66.5,
+        "y": 3.809999942779541,
+        "z": 53.0
+    },
+    {
+        "field_id": 15400,
+        "field_name": "B6  NPC Shreya",
+        "keys": 965,
+        "rRoom": 3,
+        "rType": 1,
+        "x": 30.80000114440918,
+        "y": 7.788919448852539,
+        "z": 105.80000305175781
+    },
+    {
+        "field_id": 15700,
+        "field_name": "B6  Situs Simcracker",
+        "keys": 838,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 62.10000228881836,
+        "y": 11.328696250915527,
+        "z": 224.3000030517578
+    },
+    {
+        "field_id": 15700,
+        "field_name": "B6  Situs Simcracker 2",
+        "keys": 768,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 62.10000228881836,
+        "y": 11.328696250915527,
+        "z": 224.3000030517578
+    },
+    {
+        "field_id": 15802,
+        "field_name": "B6  Pabrik Crsytal Boss",
+        "keys": 718,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 150.10000610351563,
+        "y": 27.313051223754883,
+        "z": 225.5
+    },
+    {
+        "field_id": 15900,
+        "field_name": "B6  Pabrik Crsytal Gudang Boss",
+        "keys": 578,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 68.0,
+        "y": 10.235000610351563,
+        "z": 12.199999809265137
+    },
+    {
+        "field_id": 11800,
+        "field_name": "B6  Balik Ke Istana 09",
+        "keys": 179,
+        "rRoom": 8,
+        "rType": 1,
+        "x": 42.60000228881836,
+        "y": 14.799999237060547,
+        "z": 43.0
+    },
+    {
+        "field_id": 15400,
+        "field_name": "B6  Balik Klaspe Kumuh",
+        "keys": 530,
+        "rRoom": 4,
+        "rType": 1,
+        "x": 30.80000114440918,
+        "y": 7.788919448852539,
+        "z": 105.80000305175781
+    },
+    {
+        "field_id": 16000,
+        "field_name": "B6  Pembuangan Peligro 1",
+        "keys": 601,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 165.10000610351563,
+        "y": 5.073180198669434,
+        "z": 114.80000305175781
+    },
+    {
+        "field_id": 16100,
+        "field_name": "B6  Pabrik Demi 1",
+        "keys": 787,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 34.5,
+        "y": 10.229999542236328,
+        "z": 163.90000915527344
+    },
+    {
+        "field_id": 16102,
+        "field_name": "B6  Pabrik Demi Ujung Boss",
+        "keys": 381,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 26.100000381469727,
+        "y": 21.0,
+        "z": 24.600000381469727
+    },
+    {
+        "field_id": 11800,
+        "field_name": "B6  Balik Ke Istana Elscaro Lagi",
+        "keys": 414,
+        "rRoom": 9,
+        "rType": 1,
+        "x": 42.60000228881836,
+        "y": 14.799999237060547,
+        "z": 43.0
+    },
+    {
+        "field_id": 16000,
+        "field_name": "B6  Pembuangan Peligro 12",
+        "keys": 245,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 165.10000610351563,
+        "y": 5.073180198669434,
+        "z": 114.80000305175781
+    },
+    {
+        "field_id": 16400,
+        "field_name": "B6  Pabrik Demi Besar 1",
+        "keys": 684,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 182.6999969482422,
+        "y": 19.799999237060547,
+        "z": 85.5
+    },
+    {
+        "field_id": 16501,
+        "field_name": "B6  Pabrik Demi Besar Boss",
+        "keys": 220,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 30.80000114440918,
+        "y": 6.0,
+        "z": 16.700000762939453
+    },
+    {
+        "field_id": 17000,
+        "field_name": "B6  Hutan Monster 1",
+        "keys": 653,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 123.20000457763672,
+        "y": 24.98238182067871,
+        "z": 230.10000610351563
+    },
+    {
+        "field_id": 17100,
+        "field_name": "B6  Hutan Monster 3",
+        "keys": 402,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 70.0999984741211,
+        "y": 8.285582542419434,
+        "z": 36.79999923706055
+    },
+    {
+        "field_id": 17200,
+        "field_name": "B7  Ultimea Gerbang Luar 1",
+        "keys": 978,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 212.0,
+        "y": 34.0,
+        "z": 76.70000457763672
+    },
+    {
+        "field_id": 17500,
+        "field_name": "B7  Mansion Lufenas 1",
+        "keys": 15,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 130.0,
+        "y": 15.0,
+        "z": 100.0
+    },
+    {
+        "field_id": 17500,
+        "field_name": "B7  Mansion Lufenas 11",
+        "keys": 916,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 130.0,
+        "y": 15.0,
+        "z": 100.0
+    },
+    {
+        "field_id": 17700,
+        "field_name": "B7 Mension Lufenas Aula [Boss]",
+        "keys": 860,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 63.10000228881836,
+        "y": 10.5233154296875,
+        "z": 25.700000762939453
+    },
+    {
+        "field_id": 17300,
+        "field_name": "B7 Hora Diomedea 1",
+        "keys": 900,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 40.0,
+        "y": 25.19999885559082,
+        "z": 84.9000015258789
+    },
+    {
+        "field_id": 18100,
+        "field_name": "B7 Lab. Brahe",
+        "keys": 51,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 76.80000305175781,
+        "y": 5.3867998123168945,
+        "z": 191.8000030517578
+    },
+    {
+        "field_id": 18100,
+        "field_name": "B7 Lab. Brahe Telur 1",
+        "keys": 650,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 47.44614791870117,
+        "y": 4.0,
+        "z": 68.59559631347656
+    },
+    {
+        "field_id": 18100,
+        "field_name": "B7 Lab. Brahe Telur 2",
+        "keys": 611,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 43.397804260253906,
+        "y": 4.0,
+        "z": 156.90528869628906
+    },
+    {
+        "field_id": 18102,
+        "field_name": "B7 Lab. Brahe Area 3",
+        "keys": 735,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 101.70000457763672,
+        "y": 4.799999713897705,
+        "z": 188.1999969482422
+    },
+    {
+        "field_id": 18200,
+        "field_name": "B7 Lab. Brahe Area 4",
+        "keys": 499,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 51.79999923706055,
+        "y": 6.399999618530273,
+        "z": 134.0
+    },
+    {
+        "field_id": 17300,
+        "field_name": "B7  Balik Ke Hora Diomedea",
+        "keys": 383,
+        "rRoom": 3,
+        "rType": 1,
+        "x": 40.0,
+        "y": 25.19999885559082,
+        "z": 84.9000015258789
+    },
+    {
+        "field_id": 18300,
+        "field_name": "B7  Penjara Cuervo 1",
+        "keys": 900,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 12.90000057220459,
+        "y": 2.0279998779296875,
+        "z": 63.10000228881836
+    },
+    {
+        "field_id": 18302,
+        "field_name": "B7  Setelah Bebasin Sandra",
+        "keys": 501,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 110.5,
+        "y": 15.0,
+        "z": 131.0
+    },
+    {
+        "field_id": 18400,
+        "field_name": "B7  Penjara Cuervo [Boss]",
+        "keys": 253,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 49.900001525878906,
+        "y": 15.0,
+        "z": 48.900001525878906
+    },
+    {
+        "field_id": 17300,
+        "field_name": "B7  Balik Ke Hora Habis Lawan Bos",
+        "keys": 949,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 40.0,
+        "y": 25.200000762939453,
+        "z": 84.9000015258789
+    },
+    {
+        "field_id": 17300,
+        "field_name": "B7  Balik Ke Hora Habis Lawan Bos [2]",
+        "keys": 435,
+        "rRoom": 4,
+        "rType": 1,
+        "x": 40.0,
+        "y": 25.19999885559082,
+        "z": 84.9000015258789
+    },
+    {
+        "field_id": 18500,
+        "field_name": "B7  Kota Ultimea 1",
+        "keys": 853,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 160.0,
+        "y": 74.0,
+        "z": 70.0
+    },
+    {
+        "field_id": 18700,
+        "field_name": "B7  Alun-Alun Droma [ Boss ]",
+        "keys": 393,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 110.0,
+        "y": 20.0,
+        "z": 24.0
+    },
+    {
+        "field_id": 18700,
+        "field_name": "B7  Alun-Alun Droma [ Boss ] 2",
+        "keys": 501,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 110.0,
+        "y": 20.0,
+        "z": 24.0
+    },
+    {
+        "field_id": 17300,
+        "field_name": "B7  Balik Ke Hora Habis Lawan Bos",
+        "keys": 978,
+        "rRoom": 5,
+        "rType": 1,
+        "x": 40.0,
+        "y": 25.19999885559082,
+        "z": 84.9000015258789
+    },
+    {
+        "field_id": 18802,
+        "field_name": "B7  Istana Ultimea : Gudang Demi 1",
+        "keys": 80,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 56.400001525878906,
+        "y": 17.5,
+        "z": 59.0
+    },
+    {
+        "field_id": 18900,
+        "field_name": "B7  Istana Ultimea : Koridor [BOSS]",
+        "keys": 119,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 163.3000030517578,
+        "y": 16.5,
+        "z": 125.30000305175781
+    },
+    {
+        "field_id": 18900,
+        "field_name": "B7  Setelah Lawan [BOSS]",
+        "keys": 718,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 163.3000030517578,
+        "y": 16.5,
+        "z": 125.30000305175781
+    },
+    {
+        "field_id": 11800,
+        "field_name": "B8  Ke El Scaro Istana",
+        "keys": 443,
+        "rRoom": 10,
+        "rType": 1,
+        "x": 42.60000228881836,
+        "y": 14.799999237060547,
+        "z": 43.0
+    },
+    {
+        "field_id": 20000,
+        "field_name": "B8  Ke Padang Rumpu Toblas",
+        "keys": 707,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 157.5,
+        "y": 36.21024703979492,
+        "z": 19.0
+    },
+    {
+        "field_id": 20100,
+        "field_name": "B8  Tambang Turnus 1",
+        "keys": 209,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 76.80000305175781,
+        "y": 5.400000095367432,
+        "z": 191.8000030517578
+    },
+    {
+        "field_id": 20200,
+        "field_name": "B8  Tambang Turnus [BOSS]",
+        "keys": 291,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 131.0,
+        "y": 26.0,
+        "z": 67.0
+    },
+    {
+        "field_id": 22900,
+        "field_name": "B8  Hutan Curonne 1",
+        "keys": 432,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 298.3000183105469,
+        "y": 14.54931640625,
+        "z": 86.5
+    },
+    {
+        "field_id": 20500,
+        "field_name": "B8  Nov Satericia 1",
+        "keys": 607,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 112.80000305175781,
+        "y": 17.449697494506836,
+        "z": 74.0
+    },
+    {
+        "field_id": 20400,
+        "field_name": "B8  Reruntuhan Busuk 1",
+        "keys": 965,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 63.0,
+        "y": 11.0999755859375,
+        "z": 37.5
+    },
+    {
+        "field_id": 20500,
+        "field_name": "B8  Balik Ke Nov Saterecia",
+        "keys": 795,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 112.80000305175781,
+        "y": 17.449697494506836,
+        "z": 74.0
+    },
+    {
+        "field_id": 20700,
+        "field_name": "B8  Rokoko",
+        "keys": 33,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 169.90000915527344,
+        "y": 12.798087120056152,
+        "z": 173.3000030517578
+    },
+    {
+        "field_id": 20800,
+        "field_name": "B8  Gua Pelupa",
+        "keys": 797,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 173.60000610351563,
+        "y": 256.0,
+        "z": 178.0
+    },
+    {
+        "field_id": 20800,
+        "field_name": "B8  Stelah Tong",
+        "keys": 655,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 173.60000610351563,
+        "y": 256.0,
+        "z": 178.0
+    },
+    {
+        "field_id": 20800,
+        "field_name": "B8  Stelah Boss",
+        "keys": 169,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 173.60000610351563,
+        "y": 256.0,
+        "z": 178.0
+    },
+    {
+        "field_id": 20600,
+        "field_name": "B8  G. Mithura",
+        "keys": 366,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 205.3000030517578,
+        "y": 13.64121150970459,
+        "z": 159.6999969482422
+    },
+    {
+        "field_id": 21000,
+        "field_name": "B8  G. Mithura 2",
+        "keys": 631,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 307.20001220703125,
+        "y": 45.75,
+        "z": 23.700000762939453
+    },
+    {
+        "field_id": 21100,
+        "field_name": "B8  G. Mithura Puncak",
+        "keys": 707,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 178.0,
+        "y": 59.0,
+        "z": 60.0
+    },
+    {
+        "field_id": 21200,
+        "field_name": "B8  Barbaros",
+        "keys": 324,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 228.8000030517578,
+        "y": 27.596797943115234,
+        "z": 77.9000015258789
+    },
+    {
+        "field_id": 21300,
+        "field_name": "B8  Kuil Para Dewa",
+        "keys": 605,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 79.80000305175781,
+        "y": 13.820999145507813,
+        "z": 17.700000762939453
+    },
+    {
+        "field_id": 21400,
+        "field_name": "B8  Sarambi Dewa Berkah Boss",
+        "keys": 339,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 70.0,
+        "y": 12.47339916229248,
+        "z": 48.70000076293945
+    },
+    {
+        "field_id": 21500,
+        "field_name": "B8  Koridor Herasi",
+        "keys": 601,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 14.100000381469727,
+        "y": 3.0968000888824463,
+        "z": 183.5
+    },
+    {
+        "field_id": 21600,
+        "field_name": "B8  Kuil Para Dewa 4",
+        "keys": 928,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 100.0,
+        "y": 3.7404003143310547,
+        "z": 16.5
+    },
+    {
+        "field_id": 21601,
+        "field_name": "B8  Serambi Dewa Pembangunan",
+        "keys": 549,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 100.0,
+        "y": 13.56309986114502,
+        "z": 100.0
+    },
+    {
+        "field_id": 21601,
+        "field_name": "B8  Makam 1",
+        "keys": 4,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 100.0,
+        "y": 13.56309986114502,
+        "z": 100.0
+    },
+    {
+        "field_id": 21601,
+        "field_name": "B8  Makam 3",
+        "keys": 401,
+        "rRoom": 5,
+        "rType": 1,
+        "x": 100.0,
+        "y": 13.56309986114502,
+        "z": 100.0
+    },
+    {
+        "field_id": 21601,
+        "field_name": "B8  Makam 4",
+        "keys": 214,
+        "rRoom": 3,
+        "rType": 1,
+        "x": 100.0,
+        "y": 13.56309986114502,
+        "z": 100.0
+    },
+    {
+        "field_id": 21601,
+        "field_name": "Serambi Dewa Pembangunan",
+        "keys": 53547,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 100.0,
+        "y": 13.56309986114502,
+        "z": 100.0
+    },
+    {
+        "field_id": 21602,
+        "field_name": "Serambi Dewa Istimewa",
+        "keys": 65767,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 100.0,
+        "y": 8.433186531066895,
+        "z": 17.200000762939453
+    },
+    {
+        "field_id": 21700,
+        "field_name": "B8  Kuil Dewi Spesies",
+        "keys": 647,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 68.0,
+        "y": 3.6022701263427734,
+        "z": 65.0
+    },
+    {
+        "field_id": 21800,
+        "field_name": "B8  Taman Es Salju",
+        "keys": 59,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 48.70000076293945,
+        "y": 31.7028865814209,
+        "z": 32.099998474121094
+    },
+    {
+        "field_id": 21900,
+        "field_name": "B8  Pegunungqan Elf",
+        "keys": 919,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 65.0,
+        "y": 25.1971492767334,
+        "z": 35.79999923706055
+    },
+    {
+        "field_id": 22000,
+        "field_name": "B8  Pegunungqan Elf Kuil",
+        "keys": 869,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 35.900001525878906,
+        "y": 6.273101806640625,
+        "z": 99.5999984741211
+    },
+    {
+        "field_id": 22100,
+        "field_name": "B8  Kuil Naga Kw",
+        "keys": 137,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 22.80000114440918,
+        "y": 26.5,
+        "z": 73.20000457763672
+    },
+    {
+        "field_id": 22200,
+        "field_name": "B8  Kuil Naga Puncak BOSS",
+        "keys": 397,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 25.0,
+        "y": 10.04998779296875,
+        "z": 36.0
+    },
+    {
+        "field_id": 11800,
+        "field_name": "B9 Balik Ke Istana El Scaro",
+        "keys": 512,
+        "rRoom": 11,
+        "rType": 1,
+        "x": 42.60000228881836,
+        "y": 14.799999237060547,
+        "z": 43.0
+    },
+    {
+        "field_id": 23000,
+        "field_name": "B9  Wezeero",
+        "keys": 10,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 29.30000114440918,
+        "y": 22.95916748046875,
+        "z": 87.5999984741211
+    },
+    {
+        "field_id": 23000,
+        "field_name": "B9  Wezeero 2",
+        "keys": 99,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 29.30000114440918,
+        "y": 22.95916748046875,
+        "z": 87.5999984741211
+    },
+    {
+        "field_id": 23100,
+        "field_name": "B9  Erydan 1",
+        "keys": 621,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 18.399999618530273,
+        "y": 40.45975875854492,
+        "z": 35.70000076293945
+    },
+    {
+        "field_id": 23101,
+        "field_name": "B9  Erydan 2",
+        "keys": 291,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 17.5,
+        "y": 44.50379180908203,
+        "z": 20.399999618530273
+    },
+    {
+        "field_id": 23102,
+        "field_name": "B9  Erydan 3",
+        "keys": 449,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 101.30000305175781,
+        "y": 33.269981384277344,
+        "z": 19.700000762939453
+    },
+    {
+        "field_id": 23200,
+        "field_name": "B9  Erydan 4",
+        "keys": 247,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 31.200000762939453,
+        "y": 37.66328048706055,
+        "z": 22.399999618530273
+    },
+    {
+        "field_id": 23300,
+        "field_name": "B9  Hutan Ein 1",
+        "keys": 161,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 63.79999923706055,
+        "y": 27.49190330505371,
+        "z": 26.899999618530273
+    },
+    {
+        "field_id": 23300,
+        "field_name": "B9  Hutan Ein 2",
+        "keys": 816,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 19.34442138671875,
+        "y": 29.372867584228516,
+        "z": 252.53567504882813
+    },
+    {
+        "field_id": 23300,
+        "field_name": "B9  Hutan Ein 3",
+        "keys": 811,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 111.50323486328125,
+        "y": 30.871015548706055,
+        "z": 256.8464660644531
+    },
+    {
+        "field_id": 23300,
+        "field_name": "B9  Hutan Ein 4",
+        "keys": 96,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 60.18532180786133,
+        "y": 14.160906791687012,
+        "z": 310.22076416015625
+    },
+    {
+        "field_id": 23300,
+        "field_name": "B9  Hutan Ein NPC",
+        "keys": 456,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 63.79999923706055,
+        "y": 27.49190330505371,
+        "z": 26.899999618530273
+    },
+    {
+        "field_id": 23500,
+        "field_name": "B9  Bongkahan Morthell",
+        "keys": 712,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 102.5999984741211,
+        "y": 16.978879928588867,
+        "z": 59.70000076293945
+    },
+    {
+        "field_id": 23300,
+        "field_name": "B9  Ke Distrik",
+        "keys": 864,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 63.79999923706055,
+        "y": 27.49190330505371,
+        "z": 26.899999618530273
+    },
+    {
+        "field_id": 23700,
+        "field_name": "B9  Distrik Fractum 1",
+        "keys": 797,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 180.5,
+        "y": 27.474998474121094,
+        "z": 50.60000228881836
+    },
+    {
+        "field_id": 23702,
+        "field_name": "B9  Distrik Fractum 3",
+        "keys": 632,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 123.5999984741211,
+        "y": 65.3211898803711,
+        "z": 53.79999923706055
+    },
+    {
+        "field_id": 23300,
+        "field_name": "B9  Balik Ke Hutan",
+        "keys": 784,
+        "rRoom": 3,
+        "rType": 1,
+        "x": 63.79999923706055,
+        "y": 27.49190330505371,
+        "z": 26.899999618530273
+    },
+    {
+        "field_id": 23900,
+        "field_name": "B9  Altoela 1",
+        "keys": 576,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 64.5999984741211,
+        "y": 29.680479049682617,
+        "z": 17.899999618530273
+    },
+    {
+        "field_id": 24100,
+        "field_name": "B9  Labilana Alun2",
+        "keys": 121,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 55.60000228881836,
+        "y": 15.75403118133545,
+        "z": 53.60000228881836
+    },
+    {
+        "field_id": 24200,
+        "field_name": "B9  Disrrik Dikkit",
+        "keys": 278,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 129.1999969482422,
+        "y": 40.17669677734375,
+        "z": 16.600000381469727
+    },
+    {
+        "field_id": 24200,
+        "field_name": "B9  Disrrik Dikkit 2",
+        "keys": 787,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 129.1999969482422,
+        "y": 40.17669677734375,
+        "z": 16.600000381469727
+    },
+    {
+        "field_id": 24400,
+        "field_name": "B9  Pos Plastida BOSS",
+        "keys": 132,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 60.0,
+        "y": 10.0,
+        "z": 32.0
+    },
+    {
+        "field_id": 24200,
+        "field_name": "B9  Balik Ke Distrik Dikit",
+        "keys": 468,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 129.1999969482422,
+        "y": 40.17669677734375,
+        "z": 16.600000381469727
+    },
+    {
+        "field_id": 24600,
+        "field_name": "B9  Distrik Recetacula",
+        "keys": 530,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 22.700000762939453,
+        "y": 16.0,
+        "z": 35.10000228881836
+    },
+    {
+        "field_id": 24601,
+        "field_name": "B9  Distrik Recetacula 2",
+        "keys": 54,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 31.200000762939453,
+        "y": 10.0,
+        "z": 67.5999984741211
+    },
+    {
+        "field_id": 24700,
+        "field_name": "B9  Distrik Recetacula BOSS",
+        "keys": 460,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 80.0,
+        "y": 30.10009765625,
+        "z": 42.5
+    },
+    {
+        "field_id": 24200,
+        "field_name": "B9  Balik Ke Distrik Dikit",
+        "keys": 646,
+        "rRoom": 3,
+        "rType": 1,
+        "x": 129.1999969482422,
+        "y": 40.17669677734375,
+        "z": 16.600000381469727
+    },
+    {
+        "field_id": 24800,
+        "field_name": "B9  Lufeanas rua",
+        "keys": 332,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 103.20000457763672,
+        "y": 17.76490020751953,
+        "z": 171.5
+    },
+    {
+        "field_id": 24800,
+        "field_name": "B9  Lufeanas rua 2",
+        "keys": 16,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 103.20000457763672,
+        "y": 17.76490020751953,
+        "z": 171.5
+    },
+    {
+        "field_id": 25000,
+        "field_name": "B9  Zona Riset Dalam",
+        "keys": 375,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 65.0,
+        "y": 1.044700026512146,
+        "z": 72.20000457763672
+    },
+    {
+        "field_id": 12300,
+        "field_name": "B9  Tanah Tandus Inanis",
+        "keys": 195,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 119.9000015258789,
+        "y": 20.530223846435547,
+        "z": 57.400001525878906
+    },
+    {
+        "field_id": 12400,
+        "field_name": "B9  Gurun Pasir Gesit",
+        "keys": 609,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 63.70000076293945,
+        "y": 14.50721549987793,
+        "z": 26.700000762939453
+    },
+    {
+        "field_id": 12401,
+        "field_name": "B9  Gurun Pasir Gesit 2",
+        "keys": 658,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 47.10000228881836,
+        "y": 25.537181854248047,
+        "z": 23.700000762939453
+    },
+    {
+        "field_id": 12402,
+        "field_name": "B9  Gurun Pasir Gesit 3",
+        "keys": 283,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 70.80000305175781,
+        "y": 15.147216796875,
+        "z": 14.90000057220459
+    },
+    {
+        "field_id": 11800,
+        "field_name": "B9 Ngomong Sama Prajurit Elscaro",
+        "keys": 599,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 74.11910247802734,
+        "y": 14.799999237060547,
+        "z": 114.8160629272461
+    },
+    {
+        "field_id": 24200,
+        "field_name": "B9  Distrik Dikit 4",
+        "keys": 410,
+        "rRoom": 4,
+        "rType": 1,
+        "x": 129.1999969482422,
+        "y": 40.17669677734375,
+        "z": 16.600000381469727
+    },
+    {
+        "field_id": 24200,
+        "field_name": "B9  Distrik Dikit 5",
+        "keys": 962,
+        "rRoom": 5,
+        "rType": 1,
+        "x": 129.1999969482422,
+        "y": 40.17669677734375,
+        "z": 16.600000381469727
+    },
+    {
+        "field_id": 25101,
+        "field_name": "B9  Run Elban",
+        "keys": 897,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 121.0,
+        "y": 25.570772171020508,
+        "z": 13.90000057220459
+    },
+    {
+        "field_id": 25101,
+        "field_name": "B9  Run Elban 2",
+        "keys": 868,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 121.0,
+        "y": 25.570772171020508,
+        "z": 13.90000057220459
+    },
+    {
+        "field_id": 25101,
+        "field_name": "B9  Run Elban 3",
+        "keys": 842,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 121.0,
+        "y": 25.570772171020508,
+        "z": 13.90000057220459
+    },
+    {
+        "field_id": 25200,
+        "field_name": "B9  Run Elban Abis Deff",
+        "keys": 726,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 90.0,
+        "y": 26.84136199951172,
+        "z": 141.3000030517578
+    },
+    {
+        "field_id": 25300,
+        "field_name": "Reruntuhan Inneban: Koridor Spiral",
+        "keys": 33582,
+        "rRoom": 0,
+        "rType": 25,
+        "x": 200.44361877441406,
+        "y": 158.77566528320313,
+        "z": 71.46670532226563
+    },
+    {
+        "field_id": 25400,
+        "field_name": "Reruntuhan Inneban: Dasar",
+        "keys": 58733,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 103.20000457763672,
+        "y": 17.80000114440918,
+        "z": 171.5
+    },
+    {
+        "field_id": 25500,
+        "field_name": "Neo Plastida",
+        "keys": 6814,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 49.82652282714844,
+        "y": 6.999840259552002,
+        "z": 43.55166244506836
+    },
+    {
+        "field_id": 24200,
+        "field_name": "B9  Ke Distrik Lagi",
+        "keys": 486,
+        "rRoom": 6,
+        "rType": 1,
+        "x": 129.1999969482422,
+        "y": 40.17669677734375,
+        "z": 16.600000381469727
+    },
+    {
+        "field_id": 11800,
+        "field_name": "B10 Mulai Dari Istana El Scaro",
+        "keys": 880,
+        "rRoom": 12,
+        "rType": 1,
+        "x": 42.60000228881836,
+        "y": 14.799999237060547,
+        "z": 43.0
+    },
+    {
+        "field_id": 20500,
+        "field_name": "B10  Nov Saterica ",
+        "keys": 274,
+        "rRoom": 5,
+        "rType": 2,
+        "x": 86.19999694824219,
+        "y": 17.497800827026367,
+        "z": 122.80000305175781
+    },
+    {
+        "field_id": 11200,
+        "field_name": "B10  Ke Calle Mort",
+        "keys": 804,
+        "rRoom": 4,
+        "rType": 1,
+        "x": 15.0,
+        "y": 4.292636394500732,
+        "z": 34.20000076293945
+    },
+    {
+        "field_id": 11200,
+        "field_name": "B10  Ke Calle Mort 2",
+        "keys": 790,
+        "rRoom": 6,
+        "rType": 1,
+        "x": 15.0,
+        "y": 4.292636394500732,
+        "z": 34.20000076293945
+    },
+    {
+        "field_id": 26100,
+        "field_name": "B10  Desa Inje",
+        "keys": 145,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 14.199999809265137,
+        "y": 20.18336296081543,
+        "z": 79.5
+    },
+    {
+        "field_id": 26200,
+        "field_name": "B10  Pesisir Ducia 1",
+        "keys": 447,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 198.60000610351563,
+        "y": 103.92896270751953,
+        "z": 78.4000015258789
+    },
+    {
+        "field_id": 26300,
+        "field_name": "B10  Pesisir Ducia 3",
+        "keys": 890,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 53.70000076293945,
+        "y": 11.826261520385742,
+        "z": 47.5
+    },
+    {
+        "field_id": 26400,
+        "field_name": "B10  Plato Celarra",
+        "keys": 873,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 21.399999618530273,
+        "y": 37.21540832519531,
+        "z": 90.80000305175781
+    },
+    {
+        "field_id": 26400,
+        "field_name": "B10  Plato Celarra 2",
+        "keys": 507,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 21.399999618530273,
+        "y": 37.21540832519531,
+        "z": 90.80000305175781
+    },
+    {
+        "field_id": 26502,
+        "field_name": "B10 Lembah Arche 3",
+        "keys": 746,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 50.900001525878906,
+        "y": 4.370361328125,
+        "z": 34.20000076293945
+    },
+    {
+        "field_id": 11200,
+        "field_name": "B10  Balik Ke Calle Mort",
+        "keys": 538,
+        "rRoom": 7,
+        "rType": 1,
+        "x": 92.0999984741211,
+        "y": 2.890904664993286,
+        "z": 165.90000915527344
+    },
+    {
+        "field_id": 26600,
+        "field_name": "B10  Balik Ke Calle Mort Dalam ",
+        "keys": 755,
+        "rRoom": 3,
+        "rType": 1,
+        "x": 170.90000915527344,
+        "y": 25.64751434326172,
+        "z": 27.399999618530273
+    },
+    {
+        "field_id": 20500,
+        "field_name": "B10  Balik Ke Nov Saterica",
+        "keys": 541,
+        "rRoom": 3,
+        "rType": 1,
+        "x": 112.80000305175781,
+        "y": 17.449697494506836,
+        "z": 74.0
+    },
+    {
+        "field_id": 26700,
+        "field_name": "B10  Kota Rokoko",
+        "keys": 628,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 142.40000915527344,
+        "y": 7.598443984985352,
+        "z": 93.0
+    },
+    {
+        "field_id": 26700,
+        "field_name": "B10  Kota Rokoko 2",
+        "keys": 416,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 142.40000915527344,
+        "y": 7.598443984985352,
+        "z": 93.0
+    },
+    {
+        "field_id": 26800,
+        "field_name": "B10  Kota Lahan Basah Nezim",
+        "keys": 202,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 109.4000015258789,
+        "y": 4.491583347320557,
+        "z": 114.5999984741211
+    },
+    {
+        "field_id": 26900,
+        "field_name": "B10 Rimba Penyihir 1",
+        "keys": 688,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 95.5,
+        "y": 5.213260173797607,
+        "z": 30.399999618530273
+    },
+    {
+        "field_id": 26901,
+        "field_name": "B10 Rimba Penyihir 2",
+        "keys": 807,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 70.20000457763672,
+        "y": 13.364960670471191,
+        "z": 102.5
+    },
+    {
+        "field_id": 27000,
+        "field_name": "B10 Rimba Penyihir 3",
+        "keys": 606,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 81.30000305175781,
+        "y": 2.0774364471435547,
+        "z": 46.900001525878906
+    },
+    {
+        "field_id": 26901,
+        "field_name": "B10 Rimba Penyihir 24",
+        "keys": 457,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 70.20000457763672,
+        "y": 13.364960670471191,
+        "z": 102.5
+    },
+    {
+        "field_id": 27100,
+        "field_name": "B10 Nov Diela 1",
+        "keys": 392,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 82.9000015258789,
+        "y": 22.96509552001953,
+        "z": 24.899999618530273
+    },
+    {
+        "field_id": 27101,
+        "field_name": "B10 Nov Diela 2",
+        "keys": 102,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 189.789794921875,
+        "y": 28.150962829589844,
+        "z": 28.290864944458008
+    },
+    {
+        "field_id": 27200,
+        "field_name": "B10 Nov Diela 3",
+        "keys": 785,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 64.5,
+        "y": 30.02392578125,
+        "z": 70.5999984741211
+    },
+    {
+        "field_id": 11600,
+        "field_name": "B10  Balik El Scaro Habis Bos",
+        "keys": 711,
+        "rRoom": 26,
+        "rType": 1,
+        "x": 42.0,
+        "y": 37.70000076293945,
+        "z": 106.30000305175781
+    },
+    {
+        "field_id": 29100,
+        "field_name": "B11 Jenggala Bissing 1",
+        "keys": 843,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 201.0,
+        "y": 9.896366119384766,
+        "z": 167.0
+    },
+    {
+        "field_id": 29100,
+        "field_name": "B11 Jenggala Bissing 2",
+        "keys": 915,
+        "rRoom": 10,
+        "rType": 2,
+        "x": 36.29999923706055,
+        "y": 11.937640190124512,
+        "z": 85.5999984741211
+    },
+    {
+        "field_id": 29100,
+        "field_name": "B11   Jenggala Bissing Setelah Bos",
+        "keys": 998,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 201.0,
+        "y": 9.896366119384766,
+        "z": 167.0
+    },
+    {
+        "field_id": 29300,
+        "field_name": "B11   Rawa Danau Pelarian 1",
+        "keys": 548,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 112.5999984741211,
+        "y": 10.91280746459961,
+        "z": 90.70000457763672
+    },
+    {
+        "field_id": 29202,
+        "field_name": "B11   Rawa Danau Pelarian 2",
+        "keys": 402,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 117.20000457763672,
+        "y": 10.746834754943848,
+        "z": 34.900001525878906
+    },
+    {
+        "field_id": 29500,
+        "field_name": "B11   Hutan Lindung 1",
+        "keys": 640,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 132.10000610351563,
+        "y": 33.870304107666016,
+        "z": 23.700000762939453
+    },
+    {
+        "field_id": 29510,
+        "field_name": "B11   Hutan Lindung 3",
+        "keys": 257,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 165.6999969482422,
+        "y": 21.895366668701172,
+        "z": 28.100000381469727
+    },
+    {
+        "field_id": 29600,
+        "field_name": "B11   Hutan Lindung Boss",
+        "keys": 512,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 99.9000015258789,
+        "y": 13.999970436096191,
+        "z": 24.700000762939453
+    },
+    {
+        "field_id": 29600,
+        "field_name": "B11   Hutan Lindung Boss 2",
+        "keys": 435,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 99.9000015258789,
+        "y": 13.999970436096191,
+        "z": 24.700000762939453
+    },
+    {
+        "field_id": 29600,
+        "field_name": "B11  Hutan Lindung  Setelah Boss",
+        "keys": 970,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 99.9000015258789,
+        "y": 13.999970436096191,
+        "z": 24.700000762939453
+    },
+    {
+        "field_id": 29700,
+        "field_name": "B11  Ke Erva Tronc",
+        "keys": 219,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 229.8000030517578,
+        "y": 14.24925708770752,
+        "z": 105.9000015258789
+    },
+    {
+        "field_id": 29900,
+        "field_name": "B11  Ke Jln Pinggiran Kota",
+        "keys": 612,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 84.70000457763672,
+        "y": 17.982431411743164,
+        "z": 25.600000381469727
+    },
+    {
+        "field_id": 30000,
+        "field_name": "B11  Ke Gudang Material 1",
+        "keys": 307,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 143.6999969482422,
+        "y": 13.015159606933594,
+        "z": 17.80000114440918
+    },
+    {
+        "field_id": 30000,
+        "field_name": "B11  Ke Gudang Material 3",
+        "keys": 565,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 143.6999969482422,
+        "y": 13.015159606933594,
+        "z": 17.80000114440918
+    },
+    {
+        "field_id": 30100,
+        "field_name": "B11  Ke Gudang Material Dalam",
+        "keys": 896,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 69.9000015258789,
+        "y": 8.463957786560059,
+        "z": 16.600000381469727
+    },
+    {
+        "field_id": 30200,
+        "field_name": "B11  Ke Tanah Lapang Eumaro 1",
+        "keys": 634,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 205.8000030517578,
+        "y": 2.5288641452789307,
+        "z": 145.6999969482422
+    },
+    {
+        "field_id": 30300,
+        "field_name": "B11  Ke Prime Ramus 1",
+        "keys": 895,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 58.900001525878906,
+        "y": 17.216495513916016,
+        "z": 223.60000610351563
+    },
+    {
+        "field_id": 30400,
+        "field_name": "B11  Ke Prime Ramus 12",
+        "keys": 673,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 46.20000076293945,
+        "y": 7.766613960266113,
+        "z": 13.600000381469727
+    },
+    {
+        "field_id": 29800,
+        "field_name": "B11  Ke Erva Tronc lagi",
+        "keys": 517,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 127.0,
+        "y": 65.7109375,
+        "z": 70.5999984741211
+    },
+    {
+        "field_id": 30500,
+        "field_name": "B11  Ke Dataran Flumen 1",
+        "keys": 519,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 206.3000030517578,
+        "y": 12.665914535522461,
+        "z": 191.8000030517578
+    },
+    {
+        "field_id": 30600,
+        "field_name": "B11  Ke Lembah Divi",
+        "keys": 410,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 147.3000030517578,
+        "y": 49.506683349609375,
+        "z": 66.80000305175781
+    },
+    {
+        "field_id": 30700,
+        "field_name": "B11  Ke Mata Air Divido ",
+        "keys": 764,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 108.70000457763672,
+        "y": 15.693570137023926,
+        "z": 67.5999984741211
+    },
+    {
+        "field_id": 29800,
+        "field_name": "B11  Ke Erva Tronc Rumah Ketua",
+        "keys": 123,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 127.0,
+        "y": 65.7109375,
+        "z": 70.5999984741211
+    },
+    {
+        "field_id": 30800,
+        "field_name": "B11  Ke Kaki Gunung Vuncani",
+        "keys": 272,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 135.0,
+        "y": 7.122893333435059,
+        "z": 286.20001220703125
+    },
+    {
+        "field_id": 30900,
+        "field_name": "B11  Ke Arstida 1",
+        "keys": 390,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 226.10000610351563,
+        "y": 11.199999809265137,
+        "z": 140.60000610351563
+    },
+    {
+        "field_id": 31000,
+        "field_name": "B11  Ke Arstida Dalam",
+        "keys": 968,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 91.5,
+        "y": 22.356752395629883,
+        "z": 25.5
+    },
+    {
+        "field_id": 31100,
+        "field_name": "B11  Ke Gunung Vulcani 1",
+        "keys": 375,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 46.0,
+        "y": 9.541364669799805,
+        "z": 45.400001525878906
+    },
+    {
+        "field_id": 31101,
+        "field_name": "B11  Ke Gunung Vulcani 2",
+        "keys": 550,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 29.80000114440918,
+        "y": 7.388326168060303,
+        "z": 41.0
+    },
+    {
+        "field_id": 31102,
+        "field_name": "B11  Ke Gunung Vulcani 3",
+        "keys": 756,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 19.5,
+        "y": 17.727449417114258,
+        "z": 72.80000305175781
+    },
+    {
+        "field_id": 31200,
+        "field_name": "B11  Ke Gunung Vulcani 3Puncak",
+        "keys": 288,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 100.30000305175781,
+        "y": 17.281827926635742,
+        "z": 219.60000610351563
+    },
+    {
+        "field_id": 31300,
+        "field_name": "B11  Ke Dasar Kawah Vulcani 1",
+        "keys": 912,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 227.0,
+        "y": 114.67426300048828,
+        "z": 111.30000305175781
+    },
+    {
+        "field_id": 31400,
+        "field_name": "B11  Ke Dasar Kawah Vulcani 2",
+        "keys": 315,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 99.70000457763672,
+        "y": 27.615755081176758,
+        "z": 286.70001220703125
+    },
+    {
+        "field_id": 31500,
+        "field_name": "B11  Ke Grojogan Milcaska 1",
+        "keys": 780,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 175.0,
+        "y": 14.608047485351563,
+        "z": 30.200000762939453
+    },
+    {
+        "field_id": 31501,
+        "field_name": "B11  Ke Grojogan Milcaska 2",
+        "keys": 792,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 190.90000915527344,
+        "y": 4.462778568267822,
+        "z": 26.0
+    },
+    {
+        "field_id": 31600,
+        "field_name": "B11  Ke Grojogan Milcaska 3",
+        "keys": 946,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 159.60000610351563,
+        "y": 14.569428443908691,
+        "z": 47.60000228881836
+    },
+    {
+        "field_id": 32101,
+        "field_name": "B11  Ke Kota Naga 1",
+        "keys": 325,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 40.0,
+        "y": 10.0,
+        "z": 17.399999618530273
+    },
+    {
+        "field_id": 32200,
+        "field_name": "B11  Ke Daratan Halimun 1",
+        "keys": 104,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 223.90000915527344,
+        "y": 16.886024475097656,
+        "z": 108.0
+    },
+    {
+        "field_id": 32300,
+        "field_name": "B11  Ke Boma Moja",
+        "keys": 300,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 29.0,
+        "y": 35.596004486083984,
+        "z": 211.0
+    },
+    {
+        "field_id": 32400,
+        "field_name": "B12  Ke Boma Moja Pusat",
+        "keys": 830,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 128.8000030517578,
+        "y": 55.499046325683594,
+        "z": 25.200000762939453
+    },
+    {
+        "field_id": 32200,
+        "field_name": "B12  Ke Daratan Halimun Lagi",
+        "keys": 853,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 223.90000915527344,
+        "y": 16.886024475097656,
+        "z": 108.0
+    },
+    {
+        "field_id": 32500,
+        "field_name": "B12  Ke Lorong Muatan 1",
+        "keys": 409,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 195.5,
+        "y": 9.868781089782715,
+        "z": 51.29999923706055
+    },
+    {
+        "field_id": 32600,
+        "field_name": "B12  Ke Zona Kemudi 1",
+        "keys": 566,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 132.10000610351563,
+        "y": 9.648161888122559,
+        "z": 18.399999618530273
+    },
+    {
+        "field_id": 32601,
+        "field_name": "B12  Ke Zona Kemudi 2",
+        "keys": 254,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 122.80000305175781,
+        "y": 3.2542343139648438,
+        "z": 22.399999618530273
+    },
+    {
+        "field_id": 32602,
+        "field_name": "B12  Ke Zona Kemudi 23",
+        "keys": 762,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 138.90000915527344,
+        "y": 6.86370849609375,
+        "z": 21.700000762939453
+    },
+    {
+        "field_id": 32700,
+        "field_name": "B12  Ke Zona Kemudi Kokpit",
+        "keys": 501,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 45.20000076293945,
+        "y": 12.12103271484375,
+        "z": 33.5
+    },
+    {
+        "field_id": 32800,
+        "field_name": "B12  Ke Tangga Ke Titik 1",
+        "keys": 822,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 100.0,
+        "y": 19.28826332092285,
+        "z": 163.3000030517578
+    },
+    {
+        "field_id": 32800,
+        "field_name": "B12  Ke Tangga Ke Titik 2",
+        "keys": 623,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 100.73235321044922,
+        "y": 18.67059326171875,
+        "z": 155.9796905517578
+    },
+    {
+        "field_id": 33000,
+        "field_name": "B12  Ke Kamar Kepongpong 1",
+        "keys": 545,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 47.20000076293945,
+        "y": 17.150989532470703,
+        "z": 21.600000381469727
+    },
+    {
+        "field_id": 33100,
+        "field_name": "B12  Ke Trowongan Cobaan 1",
+        "keys": 80,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 85.0,
+        "y": 28.733154296875,
+        "z": 189.1999969482422
+    },
+    {
+        "field_id": 33200,
+        "field_name": "B12  Zona Mekanisme 1",
+        "keys": 532,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 22.80000114440918,
+        "y": 8.12269401550293,
+        "z": 56.900001525878906
+    },
+    {
+        "field_id": 33201,
+        "field_name": "B12  Zona Mekanisme 2",
+        "keys": 935,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 36.0,
+        "y": 32.74772644042969,
+        "z": 17.700000762939453
+    },
+    {
+        "field_id": 33300,
+        "field_name": "B12  Zona Mekanisme 3",
+        "keys": 788,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 67.5999984741211,
+        "y": 5.409898281097412,
+        "z": 37.60000228881836
+    },
+    {
+        "field_id": 32101,
+        "field_name": "B12  Balik Ke Kota Naga ",
+        "keys": 535,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 40.0,
+        "y": 10.0,
+        "z": 17.399999618530273
+    },
+    {
+        "field_id": 33400,
+        "field_name": "B12  Kabla Jabali",
+        "keys": 415,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 212.0,
+        "y": 28.58207893371582,
+        "z": 28.399999618530273
+    },
+    {
+        "field_id": 33600,
+        "field_name": "B12  Kabla Jabali Puncak",
+        "keys": 688,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 78.20000457763672,
+        "y": 5.750903129577637,
+        "z": 17.600000381469727
+    },
+    {
+        "field_id": 32000,
+        "field_name": "B12  Kerongkongan Manusia Naga 2",
+        "keys": 883,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 188.6999969482422,
+        "y": 45.414154052734375,
+        "z": 57.29999923706055
+    },
+    {
+        "field_id": 33700,
+        "field_name": "B12  Depan Boma Konda 1",
+        "keys": 4,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 237.6999969482422,
+        "y": 17.106361389160156,
+        "z": 173.0
+    },
+    {
+        "field_id": 33800,
+        "field_name": "B12  Depan Boma Konda Bawah",
+        "keys": 842,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 212.0,
+        "y": 28.600000381469727,
+        "z": 28.399999618530273
+    },
+    {
+        "field_id": 33900,
+        "field_name": "B12  Depan Boma Konda Pusat",
+        "keys": 856,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 126.30000305175781,
+        "y": 56.9423828125,
+        "z": 42.79999923706055
+    },
+    {
+        "field_id": 34000,
+        "field_name": "B12  Lorong Ding8in",
+        "keys": 822,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 139.6999969482422,
+        "y": 25.865625381469727,
+        "z": 23.0
+    },
+    {
+        "field_id": 34100,
+        "field_name": "B12  Air Terjun Beku 1",
+        "keys": 775,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 201.0,
+        "y": 27.150405883789063,
+        "z": 187.5
+    },
+    {
+        "field_id": 34200,
+        "field_name": "B12  Air Terjun Beku Dalam",
+        "keys": 962,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 52.0,
+        "y": 17.23236083984375,
+        "z": 18.899999618530273
+    },
+    {
+        "field_id": 29800,
+        "field_name": "B13  Evra Tronc Lagi Ya",
+        "keys": 828,
+        "rRoom": 4,
+        "rType": 1,
+        "x": 127.0,
+        "y": 65.7109375,
+        "z": 70.5999984741211
+    },
+    {
+        "field_id": 29300,
+        "field_name": "B13  Rawa Danau Ujung",
+        "keys": 676,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 112.5999984741211,
+        "y": 10.91280746459961,
+        "z": 90.70000457763672
+    },
+    {
+        "field_id": 35100,
+        "field_name": "B13  Kepulauan Putera",
+        "keys": 482,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 45.0,
+        "y": 17.860326766967773,
+        "z": 25.799999237060547
+    },
+    {
+        "field_id": 35200,
+        "field_name": "B13  Kepulauan Putera Portal",
+        "keys": 556,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 146.60000610351563,
+        "y": 14.324440002441406,
+        "z": 29.600000381469727
+    },
+    {
+        "field_id": 35300,
+        "field_name": "B13  Gua Sumba",
+        "keys": 918,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 104.70000457763672,
+        "y": 18.282155990600586,
+        "z": 256.0
+    },
+    {
+        "field_id": 35400,
+        "field_name": "B13  Gua Sumba 1",
+        "keys": 562,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 126.4000015258789,
+        "y": 19.069150924682617,
+        "z": 229.90000915527344
+    },
+    {
+        "field_id": 35400,
+        "field_name": "B13  Kubah Sumba 1",
+        "keys": 232,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 126.4000015258789,
+        "y": 19.069150924682617,
+        "z": 229.90000915527344
+    },
+    {
+        "field_id": 35401,
+        "field_name": "B13  Kubah Sumba 2",
+        "keys": 116,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 239.3000030517578,
+        "y": 40.57268524169922,
+        "z": 119.5999984741211
+    },
+    {
+        "field_id": 35500,
+        "field_name": "B13  Kubah Sumba 3",
+        "keys": 296,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 37.60000228881836,
+        "y": 47.357112884521484,
+        "z": 112.70000457763672
+    },
+    {
+        "field_id": 35800,
+        "field_name": "B13  Dasar Laut",
+        "keys": 82,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 188.6999969482422,
+        "y": 45.5,
+        "z": 57.29999923706055
+    },
+    {
+        "field_id": 35800,
+        "field_name": "B13  Dasar Laut 2",
+        "keys": 807,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 188.6999969482422,
+        "y": 45.5,
+        "z": 57.29999923706055
+    },
+    {
+        "field_id": 35900,
+        "field_name": "B13  Kawasan Terlantar 1",
+        "keys": 147,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 18.600000381469727,
+        "y": 68.5732421875,
+        "z": 111.20000457763672
+    },
+    {
+        "field_id": 35901,
+        "field_name": "B13  Kawasan Terlantar 2",
+        "keys": 782,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 119.30000305175781,
+        "y": 108.4677734375,
+        "z": 39.79999923706055
+    },
+    {
+        "field_id": 35902,
+        "field_name": "B13  Kawasan Terlantar 3",
+        "keys": 889,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 185.5,
+        "y": 48.737186431884766,
+        "z": 207.1999969482422
+    },
+    {
+        "field_id": 35700,
+        "field_name": "B13  Gedung Parlemen",
+        "keys": 936,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 35.400001525878906,
+        "y": 2.663701295852661,
+        "z": 21.600000381469727
+    },
+    {
+        "field_id": 37000,
+        "field_name": "B13  Jln Menju laut dalam",
+        "keys": 853,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 98.9000015258789,
+        "y": 68.70993041992188,
+        "z": 161.5
+    },
+    {
+        "field_id": 36100,
+        "field_name": "B13  Laut Dalam 1",
+        "keys": 887,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 37.60000228881836,
+        "y": 73.1376724243164,
+        "z": 219.5
+    },
+    {
+        "field_id": 36101,
+        "field_name": "B13  Laut Dalam 2",
+        "keys": 393,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 54.70000076293945,
+        "y": 51.29340362548828,
+        "z": 216.10000610351563
+    },
+    {
+        "field_id": 36102,
+        "field_name": "B13  Laut Dalam 3",
+        "keys": 450,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 68.30000305175781,
+        "y": 49.78020477294922,
+        "z": 206.60000610351563
+    },
+    {
+        "field_id": 36200,
+        "field_name": "B13  Laut Dalam BOSS",
+        "keys": 532,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 57.5,
+        "y": 16.56488609313965,
+        "z": 159.3000030517578
+    },
+    {
+        "field_id": 35600,
+        "field_name": "B13  Balik Ke Aqua",
+        "keys": 637,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 65.0999984741211,
+        "y": 10.478777885437012,
+        "z": 202.8000030517578
+    },
+    {
+        "field_id": 36300,
+        "field_name": "B13  Balik Ke Aqua 2",
+        "keys": 500,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 71.5999984741211,
+        "y": 45.46441650390625,
+        "z": 196.5
+    },
+    {
+        "field_id": 36400,
+        "field_name": "B13  Kuil Karunia",
+        "keys": 677,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 34.20000076293945,
+        "y": 26.100000381469727,
+        "z": 97.9000015258789
+    },
+    {
+        "field_id": 36500,
+        "field_name": "B13  Kuil Karunia Ujung",
+        "keys": 615,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 23.5,
+        "y": 28.606740951538086,
+        "z": 9.0
+    },
+    {
+        "field_id": 36700,
+        "field_name": "B13  Caretera 1",
+        "keys": 408,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 235.0,
+        "y": 21.53096580505371,
+        "z": 77.30000305175781
+    },
+    {
+        "field_id": 36800,
+        "field_name": "B13  Kota Marina",
+        "keys": 532,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 210.0,
+        "y": 10.03462028503418,
+        "z": 83.70000457763672
+    },
+    {
+        "field_id": 36801,
+        "field_name": "B13  Kota Marina 2",
+        "keys": 914,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 204.40000915527344,
+        "y": 13.971395492553711,
+        "z": 149.40000915527344
+    },
+    {
+        "field_id": 36802,
+        "field_name": "B13  Kota Marina 3",
+        "keys": 832,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 101.80000305175781,
+        "y": 20.180648803710938,
+        "z": 20.600000381469727
+    }
+
+]
