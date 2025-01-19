@@ -2,7 +2,7 @@
     {
         "field_id": 3100,
         "field_name": "Kota Sofya",
-        "keys": 53899,
+        "keys": 1,
         "rRoom": 10,
         "rType": 1,
         "x": 67.9000015258789,
@@ -12,7 +12,7 @@
     {
         "field_id": 3200,
         "field_name": "Kota Sofya: Pandai Besi",
-        "keys": 27544,
+        "keys": 2,
         "rRoom": 0,
         "rType": 1,
         "x": 79.5,
@@ -22,7 +22,7 @@
     {
         "field_id": 3300,
         "field_name": "Tanah Pembangunan",
-        "keys": 69490,
+        "keys": 3,
         "rRoom": 0,
         "rType": 1,
         "x": 61.60000228881836,
@@ -32,7 +32,7 @@
     {
         "field_id": 3300,
         "field_name": "Tanah Pembangunan",
-        "keys": 25644,
+        "keys": 4,
         "rRoom": 0,
         "rType": 2,
         "x": 140.0,
@@ -42,7 +42,7 @@
     {
         "field_id": 3300,
         "field_name": "Tanah Pembangunan",
-        "keys": 279,
+        "keys": 5,
         "rRoom": 1,
         "rType": 1,
         "x": 61.60000228881836,
@@ -52,7 +52,7 @@
     {
         "field_id": 3200,
         "field_name": "Kota Sofya: Pandai Besi",
-        "keys": 40469,
+        "keys": 6,
         "rRoom": 1,
         "rType": 1,
         "x": 85.0,
@@ -62,7 +62,7 @@
     {
         "field_id": 3300,
         "field_name": "Tanah Pembangunan",
-        "keys": 63456,
+        "keys": 7,
         "rRoom": 2,
         "rType": 1,
         "x": 61.60000228881836,
@@ -72,7 +72,7 @@
     {
         "field_id": 3500,
         "field_name": "Reruntuhan Bawah Tanah: Bagian Dalam",
-        "keys": 61820,
+        "keys": 8,
         "rRoom": 0,
         "rType": 1,
         "x": 66.0,
@@ -82,7 +82,7 @@
     {
         "field_id": 3100,
         "field_name": "Kota Sofya",
-        "keys": 68929,
+        "keys": 9,
         "rRoom": 20,
         "rType": 1,
         "x": 139.90000915527344,
@@ -92,7 +92,7 @@
     {
         "field_id": 4600,
         "field_name": "Balai Kota",
-        "keys": 36765,
+        "keys": 10,
         "rRoom": 0,
         "rType": 1,
         "x": 66.5,
@@ -102,7 +102,7 @@
     {
         "field_id": 3600,
         "field_name": "Pad. Garam Reug: Kamp Pengelana",
-        "keys": 96240,
+        "keys": 11,
         "rRoom": 0,
         "rType": 0,
         "x": 60.142333984375,
@@ -112,17 +112,27 @@
     {
         "field_id": 3600,
         "field_name": "Pad. Garam Reug: Kamp Pengelana",
-        "keys": 20724,
+        "keys": 11,
         "rRoom": 0,
         "rType": 0,
-        "x": 69.61453247070313,
-        "y": 10.460567474365234,
-        "z": 63.92905044555664
+        "x": 60.142333984375,
+        "y": 11.108960151672363,
+        "z": 79.22310638427734
+    },
+    {
+        "field_id": 3600,
+        "field_name": "Nenek",
+        "keys": 12,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 71.1324691772461,
+        "y": 10.281081199645996,
+        "z": 64.9497299194336
     },
     {
         "field_id": 3700,
         "field_name": "Tanah Genting Kaus",
-        "keys": 68261,
+        "keys": 13,
         "rRoom": 0,
         "rType": 1,
         "x": 9.100000381469727,
@@ -132,17 +142,17 @@
     {
         "field_id": 3800,
         "field_name": "Tanah Genting Kaus: Gua Naga",
-        "keys": 75509,
+        "keys": 14,
         "rRoom": 0,
         "rType": 0,
-        "x": 64.19999694824219,
-        "y": 4.0,
-        "z": 64.0
+        "x": 78.52619934082031,
+        "y": 5.735086441040039,
+        "z": 43.31770706176758
     },
     {
         "field_id": 3800,
         "field_name": "Tanah Genting Kaus: Gua Naga",
-        "keys": 28771,
+        "keys": 15,
         "rRoom": 0,
         "rType": 2,
         "x": 17.80000114440918,
@@ -152,7 +162,7 @@
     {
         "field_id": 4600,
         "field_name": "Balai Kota",
-        "keys": 35882,
+        "keys": 16,
         "rRoom": 1,
         "rType": 1,
         "x": 66.5,
@@ -162,7 +172,7 @@
     {
         "field_id": 4600,
         "field_name": "Balai Kota",
-        "keys": 12446,
+        "keys": 17,
         "rRoom": 2,
         "rType": 1,
         "x": 66.5,
@@ -172,7 +182,7 @@
     {
         "field_id": 3100,
         "field_name": "Kota Sofya",
-        "keys": 71526,
+        "keys": 18,
         "rRoom": 0,
         "rType": 0,
         "x": 21.263431549072266,
@@ -182,7 +192,7 @@
     {
         "field_id": 4002,
         "field_name": "Kuil Runtuh: Area 3",
-        "keys": 17842,
+        "keys": 19,
         "rRoom": 0,
         "rType": 1,
         "x": 53.79999923706055,
@@ -192,7 +202,7 @@
     {
         "field_id": 4002,
         "field_name": "Kuil Runtuh: Area 3",
-        "keys": 23982,
+        "keys": 20,
         "rRoom": 0,
         "rType": 0,
         "x": 90.5999984741211,
@@ -202,7 +212,7 @@
     {
         "field_id": 4100,
         "field_name": "Kuil Runtuh: Aula Terlarang",
-        "keys": 39590,
+        "keys": 21,
         "rRoom": 0,
         "rType": 1,
         "x": 80.0,
@@ -212,7 +222,7 @@
     {
         "field_id": 4600,
         "field_name": "Balai Kota",
-        "keys": 76869,
+        "keys": 22,
         "rRoom": 3,
         "rType": 1,
         "x": 66.5,
@@ -222,7 +232,7 @@
     {
         "field_id": 4600,
         "field_name": "Balai Kota",
-        "keys": 95332,
+        "keys": 23,
         "rRoom": 4,
         "rType": 1,
         "x": 66.5,
@@ -232,7 +242,7 @@
     {
         "field_id": 4200,
         "field_name": "Danau Icule",
-        "keys": 5080,
+        "keys": 25,
         "rRoom": 0,
         "rType": 1,
         "x": 123.70000457763672,
@@ -242,7 +252,7 @@
     {
         "field_id": 3600,
         "field_name": "Pad. Garam Reug: Kamp Pengelana",
-        "keys": 14991,
+        "keys": 25,
         "rRoom": 0,
         "rType": 0,
         "x": 60.142333984375,
@@ -252,7 +262,7 @@
     {
         "field_id": 3200,
         "field_name": "Kota Sofya: Pandai Besi",
-        "keys": 59003,
+        "keys": 26,
         "rRoom": 2,
         "rType": 1,
         "x": 85.0,
@@ -262,7 +272,7 @@
     {
         "field_id": 4200,
         "field_name": "Danau Icule",
-        "keys": 37889,
+        "keys": 27,
         "rRoom": 1,
         "rType": 1,
         "x": 123.70000457763672,
@@ -272,7 +282,7 @@
     {
         "field_id": 4302,
         "field_name": "Gunung Nisel: Dekat Puncak",
-        "keys": 54170,
+        "keys": 28,
         "rRoom": 0,
         "rType": 1,
         "x": 27.5,
@@ -282,7 +292,7 @@
     {
         "field_id": 4400,
         "field_name": "Gunung Nisel: Puncak",
-        "keys": 56810,
+        "keys": 29,
         "rRoom": 0,
         "rType": 1,
         "x": 38.20000076293945,
@@ -292,7 +302,7 @@
     {
         "field_id": 4600,
         "field_name": "Balai Kota",
-        "keys": 6169,
+        "keys": 30,
         "rRoom": 5,
         "rType": 1,
         "x": 66.5,
@@ -302,7 +312,7 @@
     {
         "field_id": 3100,
         "field_name": "Kota Sofya",
-        "keys": 94635,
+        "keys": 31,
         "rRoom": 30,
         "rType": 1,
         "x": 81.0,
@@ -312,7 +322,7 @@
     {
         "field_id": 3200,
         "field_name": "Kota Sofya: Pandai Besi",
-        "keys": 15058,
+        "keys": 32,
         "rRoom": 0,
         "rType": 0,
         "x": 95.10430908203125,
@@ -322,7 +332,7 @@
     {
         "field_id": 3201,
         "field_name": "Kota Sofya: Pakar Padu",
-        "keys": 89057,
+        "keys": 33,
         "rRoom": 0,
         "rType": 0,
         "x": 85.4194564819336,
@@ -332,7 +342,7 @@
     {
         "field_id": 3100,
         "field_name": "Kota Sofya",
-        "keys": 73860,
+        "keys": 34,
         "rRoom": 0,
         "rType": 0,
         "x": 80.21874237060547,
@@ -342,7 +352,7 @@
     {
         "field_id": 3100,
         "field_name": "Kota Sofya",
-        "keys": 29380,
+        "keys": 35,
         "rRoom": 0,
         "rType": 0,
         "x": 23.663681030273438,
@@ -352,7 +362,7 @@
     {
         "field_id": 4600,
         "field_name": "Balai Kota",
-        "keys": 52949,
+        "keys": 36,
         "rRoom": 6,
         "rType": 1,
         "x": 66.5,
@@ -362,7 +372,7 @@
     {
         "field_id": 3600,
         "field_name": "Pad. Garam Reug: Kamp Pengelana",
-        "keys": 70790,
+        "keys": 37,
         "rRoom": 0,
         "rType": 1,
         "x": 58.5,
@@ -372,7 +382,7 @@
     {
         "field_id": 6000,
         "field_name": "Lahan Bakar Witeka ",
-        "keys": 55443,
+        "keys": 38,
         "rRoom": 0,
         "rType": 1,
         "x": 56.70000076293945,
@@ -382,7 +392,7 @@
     {
         "field_id": 6102,
         "field_name": "Lereng Merapi A3",
-        "keys": 82265,
+        "keys": 39,
         "rRoom": 0,
         "rType": 1,
         "x": 66.0,
@@ -392,7 +402,7 @@
     {
         "field_id": 6300,
         "field_name": "Dusun Douce",
-        "keys": 76309,
+        "keys": 40,
         "rRoom": 0,
         "rType": 1,
         "x": 99.80000305175781,
@@ -2690,6 +2700,26 @@
         "z": 16.600000381469727
     },
     {
+        "field_id": 25500,
+        "field_name": "Neo Plastida",
+        "keys": 41499,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 46.94589614868164,
+        "y": 6.999835968017578,
+        "z": 44.05586624145508
+    },
+    {
+        "field_id": 24200,
+        "field_name": "Distrik Dikkit",
+        "keys": 62458,
+        "rRoom": 6,
+        "rType": 1,
+        "x": 129.1999969482422,
+        "y": 40.17669677734375,
+        "z": 16.600000381469727
+    },
+    {
         "field_id": 11800,
         "field_name": "El Scaro: Istana Tentatif",
         "keys": 58815,
@@ -2858,6 +2888,16 @@
         "x": 142.40000915527344,
         "y": 7.598443984985352,
         "z": 93.0
+    },
+    {
+        "field_id": 26700,
+        "field_name": "Reruntuhan Kota Rokoko",
+        "keys": 20634,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 155.8183135986328,
+        "y": 8.02984619140625,
+        "z": 33.226051330566406
     },
     {
         "field_id": 26800,
@@ -3460,6 +3500,16 @@
         "z": 37.60000228881836
     },
     {
+        "field_id": 29900,
+        "field_name": "Jalan Pinggiran Kota",
+        "keys": 96108,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 84.70000457763672,
+        "y": 17.982431411743164,
+        "z": 25.600000381469727
+    },
+    {
         "field_id": 32101,
         "field_name": "Kota Naga",
         "keys": 55245,
@@ -3958,5 +4008,15 @@
         "x": 94.0,
         "y": 15.371055603027344,
         "z": 134.0
+    },
+    {
+        "field_id": 3300,
+        "field_name": "Tanah Pembangunan",
+        "keys": 57599,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 113.45999908447266,
+        "y": 4.799999713897705,
+        "z": 69.86000061035156
     }
 ]
