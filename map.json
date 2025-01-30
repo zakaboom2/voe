@@ -4010,6 +4010,46 @@
         "z": 134.0
     },
     {
+        "field_id": 37800,
+        "field_name": "Latum Wetlands",
+        "keys": 26840,
+        "rRoom": 3,
+        "rType": 1,
+        "x": 56.5,
+        "y": 24.93878746032715,
+        "z": 189.10000610351563
+    },
+    {
+        "field_id": 38100,
+        "field_name": "Div Aqua Jungle: Area 1",
+        "keys": 62753,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 14.0,
+        "y": 15.942734718322754,
+        "z": 94.5999984741211
+    },
+    {
+        "field_id": 38200,
+        "field_name": "Div Aqua Jungle: Depths",
+        "keys": 33333,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 55.29999923706055,
+        "y": 2.34326434135437,
+        "z": 67.80000305175781
+    },
+    {
+        "field_id": 38302,
+        "field_name": "Vicus Mutans: Area 3",
+        "keys": 56205,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 138.5,
+        "y": 42.31446838378906,
+        "z": 214.90000915527344
+    },
+    {
         "field_id": 3300,
         "field_name": "Tanah Pembangunan",
         "keys": 57599,
