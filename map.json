@@ -4048,5 +4048,95 @@
         "x": 138.5,
         "y": 42.31446838378906,
         "z": 214.90000915527344
+    },
+    {
+        "field_id": 37100,
+        "field_name": "Menabra Plains",
+        "keys": 74298,
+        "rRoom": 3,
+        "rType": 1,
+        "x": 124.80000305175781,
+        "y": 111.60089874267578,
+        "z": 115.30000305175781
+    },
+    {
+        "field_id": 37100,
+        "field_name": "Menabra Plains",
+        "keys": 17018,
+        "rRoom": 0,
+        "rType": 0,
+        "x": 80.41876220703125,
+        "y": 96.79492950439453,
+        "z": 119.86371612548828
+    },
+    {
+        "field_id": 37100,
+        "field_name": "Menabra Plains",
+        "keys": 46582,
+        "rRoom": 4,
+        "rType": 1,
+        "x": 124.80000305175781,
+        "y": 111.60089874267578,
+        "z": 115.30000305175781
+    },
+    {
+        "field_id": 38600,
+        "field_name": "Lixaro Ghost Town: Entrance",
+        "keys": 93914,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 19.5,
+        "y": 18.600000381469727,
+        "z": 45.900001525878906
+    },
+    {
+        "field_id": 38700,
+        "field_name": "Lixaro Ghost Town: Road",
+        "keys": 1004,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 18.399999618530273,
+        "y": 47.82118225097656,
+        "z": 128.0
+    },
+    {
+        "field_id": 38701,
+        "field_name": "Lixaro Ghost Town: Urban Area",
+        "keys": 32651,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 63.0,
+        "y": 15.814203262329102,
+        "z": 58.5
+    },
+    {
+        "field_id": 38702,
+        "field_name": "Lixaro Ghost Town: Garden",
+        "keys": 98379,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 125.4000015258789,
+        "y": 21.52734375,
+        "z": 38.20000076293945
+    },
+    {
+        "field_id": 38702,
+        "field_name": "Lixaro Ghost Town: Garden",
+        "keys": 57001,
+        "rRoom": 1,
+        "rType": 1,
+        "x": 125.4000015258789,
+        "y": 21.52734375,
+        "z": 38.20000076293945
+    },
+    {
+        "field_id": 38800,
+        "field_name": "Lixaro Ghost Town: Mansion",
+        "keys": 30622,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 128.0,
+        "y": 16.925552368164063,
+        "z": 55.5
     }
 ]
