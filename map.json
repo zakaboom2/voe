@@ -4138,5 +4138,45 @@
         "x": 128.0,
         "y": 16.925552368164063,
         "z": 55.5
+    },
+    {
+        "field_id": 38800,
+        "field_name": "Kota Mati Lixaro: Mansion",
+        "keys": 66735,
+        "rRoom": 2,
+        "rType": 1,
+        "x": 128.0,
+        "y": 16.925552368164063,
+        "z": 55.5
+    },
+    {
+        "field_id": 39100,
+        "field_name": "Dataran Vanek",
+        "keys": 61895,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 19.5,
+        "y": 18.600000381469727,
+        "z": 45.900001525878906
+    },
+    {
+        "field_id": 39200,
+        "field_name": "Gunung Tinggi Afval: Area 1",
+        "keys": 89201,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 37.900001525878906,
+        "y": 13.473013877868652,
+        "z": 162.5
+    },
+    {
+        "field_id": 39300,
+        "field_name": "Gunung Tinggi Afval: Puncak",
+        "keys": 85046,
+        "rRoom": 0,
+        "rType": 1,
+        "x": 80.9000015258789,
+        "y": 13.56048583984375,
+        "z": 26.600000381469727
     }
 ]
