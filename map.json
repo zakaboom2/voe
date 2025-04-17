@@ -3941,46 +3941,6 @@
     "z": 175.10000610351562
     },
     {
-    "field_idx": 37601,
-    "field_name": "Lembah Umidus: Area 2",
-    "keys": 15373,
-    "rRoom": 10,
-    "rType": 1,
-    "x": 162.4537811279297,
-    "y": 26.762739181518555,
-    "z": 131.82568359375
-    },
-    {
-    "field_idx": 37100,
-    "field_name": "Dataran Menabra",
-    "keys": 74341,
-    "rRoom": 2,
-    "rType": 1,
-    "x": 124.80000305175781,
-    "y": 111.60089874267578,
-    "z": 115.30000305175781
-    },
-    {
-    "field_idx": 37800,
-    "field_name": "Lahan Basah Latum",
-    "keys": 77111,
-    "rRoom": 0,
-    "rType": 1,
-    "x": 56.5,
-    "y": 24.93878746032715,
-    "z": 189.10000610351562
-    },
-    {
-    "field_idx": 37800,
-    "field_name": "Lahan Basah Latum",
-    "keys": 34966,
-    "rRoom": 1,
-    "rType": 1,
-    "x": 56.5,
-    "y": 24.93878746032715,
-    "z": 189.10000610351562
-    },
-    {
     "field_idx": 37900,
     "field_name": "Aquastida: Jalan Masuk",
     "keys": 59514,
@@ -3989,56 +3949,6 @@
     "x": 15.800000190734863,
     "y": 4.280962944030762,
     "z": 179.5
-    },
-    {
-    "field_idx": 37902,
-    "field_name": "Aquastida: Area Dalam",
-    "keys": 47010,
-    "rRoom": 0,
-    "rType": 1,
-    "x": 19.600000381469727,
-    "y": 8.707864761352539,
-    "z": 16.30000114440918
-    },
-    {
-    "field_idx": 38000,
-    "field_name": "Aquastida: Pusat",
-    "keys": 25604,
-    "rRoom": 0,
-    "rType": 1,
-    "x": 94,
-    "y": 15.371055603027344,
-    "z": 134
-    },
-    {
-    "field_idx": 37800,
-    "field_name": "Latum Wetlands",
-    "keys": 26840,
-    "rRoom": 3,
-    "rType": 1,
-    "x": 56.5,
-    "y": 24.93878746032715,
-    "z": 189.10000610351562
-    },
-    {
-    "field_idx": 38100,
-    "field_name": "Div Aqua Jungle: Area 1",
-    "keys": 62753,
-    "rRoom": 0,
-    "rType": 1,
-    "x": 14,
-    "y": 15.942734718322754,
-    "z": 94.5999984741211
-    },
-    {
-    "field_idx": 38200,
-    "field_name": "Div Aqua Jungle: Depths",
-    "keys": 33333,
-    "rRoom": 0,
-    "rType": 1,
-    "x": 55.29999923706055,
-    "y": 2.34326434135437,
-    "z": 67.80000305175781
     },
     {
     "field_idx": 38302,
